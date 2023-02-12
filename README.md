@@ -2,4 +2,4 @@
 
 ## Critical tables
 
-[Tables](https://github.com/ScottSedgwick/Light_Of_Xaryxis/blob/main/Criticals.md)
+[Tables](Criticals.md)
