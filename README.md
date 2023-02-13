@@ -27,3 +27,11 @@ Thanks to extensive practice with firearms, you gain the following benefits:
 - You ignore the loading quality of firearms with which you are proficient.
 - Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a pistol you are holding.
+
+## Available Firearms
+
+| Weapon | Cost | Damage | Weight | Properties |
+| :----- | :--: | :----: | :----: | :--------- |
+| Pistol | 250gp | 1d10 piercing | 3 lb  | Ammunition (range 30/90), loading |
+| Musket | 500gp | 1d12 piercing | 10 lb | Ammunition (range 40/120), loading, two-handed |
+| Bullets (10) | 3 gp | - | 2 lb | - | 
