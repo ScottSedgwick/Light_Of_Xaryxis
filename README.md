@@ -3,8 +3,11 @@
 ## Critical tables
 
 [Weapon Attack Critical Hits](WeaponCriticalHits.html)
+
 [Weapon Attack Fumbles](WeaponCriticalMisses.html)
+
 [Spell Attack Critical Hits](SpellCriticalHits.html)
+
 [Spell Attack Fumbles](SpellCriticalMisses.html)
 
 ## Character creation
