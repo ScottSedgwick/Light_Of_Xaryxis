@@ -5,25 +5,96 @@
   <h1>Spell Attack Critical Hit Table</h1>
 
   <table>
-    <tr><th><div style="width:80px;">Roll %</div></th><th>Description</th><th>Effect</th></tr>
-    <tr><td>1     </td><td> You feel accomplished, but nothing remarkable happens.                                         </td><td> Regular spell critical hit. </td></tr>
-    <tr><td>2-5   </td><td> You feel it is imperative to press the advantage no matter the cost.                           </td><td> You can choose to gain advantage on your next attack roll against your target, but all enemies have advantage on their attack rolls against you until the end of your next turn. </td></tr>
-    <tr><td>6-9   </td><td> You feel it is imperative to press the advantage, but maintain awareness of your surroundings. </td><td> You can choose to gain advantage on your next attack roll against your target, your target has advantage on their attack rolls against you until the end of your next turn. </td></tr>
-    <tr><td>10-14 </td><td> As you are fighting, you notice an effective route to escape danger.                           </td><td> You are able to use the disengage action after your attack. </td></tr>
-    <tr><td>15-19 </td><td> You feel the eb and flow of the battle, and know where to make your next move.                 </td><td> After your turn you move to the top of the initiative order. </td></tr>
-    <tr><td>20-29 </td><td> Your spell cripples your opponent.                                                             </td><td> Your target's movement speed is cut in half for their next 2 turns. </td></tr>
-    <tr><td>30-39 </td><td> Your spell attack knocks your target over.                                                     </td><td> Your target is knocked prone. </td></tr>
-    <tr><td>40-49 </td><td> The light from your spell flashes near your target's eyes                                      </td><td> Your target is blinded until the end of their next turn. </td></tr>
-    <tr><td>50-59 </td><td> You blast the targets weapons out of their hands.                                              </td><td> Your target's weapon is flung 1d6*5 feet away in a random direction. </td></tr>
-    <tr><td>60-69 </td><td> The sight of your magic fills the target's heart with fear.                                    </td><td> Your target is frightened by you until you stop casting magic. You are able to discern the source of your targets fear. </td></tr>
-    <tr><td>70-74 </td><td> The force from your spell stuns your opponent.                                                 </td><td> Your target is incapacitated until the end of their next turn. </td></tr>
-    <tr><td>75-79 </td><td> Your spell is incidentally infused with fey energy.                                            </td><td> Roll 10d8. If your targets current health is lower than the number rolled they fall asleep for 1 minute. </td></tr>
-    <tr><td>80-84 </td><td> Your spells strike surprises your opponent.                                                    </td><td> Your target is surprised until the end of their next turn. </td></tr>
-    <tr><td>85-89 </td><td> Your spell strikes with great force.                                                           </td><td> Roll an additional set of spell damage dice above and beyond your normal critical roll. </td></tr>
-    <tr><td>90-94 </td><td> Your spell strikes with extreme force.                                                         </td><td> Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers one unit of exhaustion. </td></tr>
-    <tr><td>96-99 </td><td> Your spell strikes with debilitating force.                                                    </td><td> Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers a permanent injury chose by the DM. The permanent injury can be healed with extended rest of a length determined by the DM, but the attack leaves a scar. </td></tr>
-    <tr><td>100   </td><td> Your spell strikes with devastating force.                                                     </td><td> Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers 1 unit of exhaustion, and the target suffers a permanent injury chose by the DM. The permanent injury can be healed with extended rest of a length determined by the DM, but the attack leaves a scar. </td></tr>
-    
-</table>
+    <tr>
+      <th><div style="width:80px;">Roll %</div></th>
+      <th>Description</th>
+      <th>Effect</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>You feel accomplished, but nothing remarkable happens.</td>
+      <td>Regular spell critical hit.</td>
+    </tr>
+    <tr>
+      <td>2-5</td>
+      <td>You feel it is imperative to press the advantage no matter the cost.</td>
+      <td>You can choose to gain advantage on your next attack roll against your target, but all enemies have advantage on their attack rolls against you until the end of your next turn.</td>
+    </tr>
+    <tr>
+      <td>6-9</td>
+      <td>You feel it is imperative to press the advantage, but maintain awareness of your surroundings.</td>
+      <td>You can choose to gain advantage on your next attack roll against your target, your target has advantage on their attack rolls against you until the end of your next turn.</td>
+    </tr>
+    <tr>
+      <td>10-14</td>
+      <td>As you are fighting, you notice an effective route to escape danger.</td>
+      <td>You are able to use the disengage action after your attack.</td>
+    </tr>
+    <tr>
+      <td>15-19</td>
+      <td>You feel the eb and flow of the battle, and know where to make your next move.</td>
+      <td>After your turn you move to the top of the initiative order.</td>
+    </tr>
+    <tr>
+      <td>20-29</td>
+      <td>Your spell cripples your opponent.</td>
+      <td>Your target's movement speed is cut in half for their next 2 turns.</td>
+    </tr>
+    <tr>
+      <td>30-39</td>
+      <td>Your spell attack knocks your target over.</td>
+      <td>Your target is knocked prone.</td>
+    </tr>
+    <tr>
+      <td>40-49</td>
+      <td>The light from your spell flashes near your target's eyes</td>
+      <td>Your target is blinded until the end of their next turn.</td>
+    </tr>
+    <tr>
+      <td>50-59</td>
+      <td>You blast the targets weapons out of their hands.</td>
+      <td>Your target's weapon is flung 1d6*5 feet away in a random direction.</td>
+    </tr>
+    <tr>
+      <td>60-69</td>
+      <td>The sight of your magic fills the target's heart with fear.</td>
+      <td>Your target is frightened by you until you stop casting magic. You are able to discern the source of your targets fear.</td>
+    </tr>
+    <tr>
+      <td>70-74</td>
+      <td>The force from your spell stuns your opponent.</td>
+      <td>Your target is incapacitated until the end of their next turn.</td>
+    </tr>
+    <tr>
+      <td>75-79</td>
+      <td>Your spell is incidentally infused with fey energy.</td>
+      <td>Roll 10d8. If your targets current health is lower than the number rolled they fall asleep for 1 minute.</td>
+    </tr>
+    <tr>
+      <td>80-84</td>
+      <td>Your spells strike surprises your opponent.</td>
+      <td>Your target is surprised until the end of their next turn.</td>
+    </tr>
+    <tr>
+      <td>85-89</td>
+      <td>Your spell strikes with great force.</td>
+      <td>Roll an additional set of spell damage dice above and beyond your normal critical roll.</td>
+    </tr>
+    <tr>
+      <td>90-94</td>
+      <td>Your spell strikes with extreme force.</td>
+      <td>Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers one unit of exhaustion.</td>
+    </tr>
+    <tr>
+      <td>96-99</td>
+      <td>Your spell strikes with debilitating force.</td>
+      <td>Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers a permanent injury chose by the DM. The permanent injury can be healed with extended rest of a length determined by the DM, but the attack leaves a scar. </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>Your spell strikes with devastating force.</td>
+      <td>Roll an additional set of spell damage dice above and beyond your normal critical roll, and the target suffers 1 unit of exhaustion, and the target suffers a permanent injury chose by the DM. The permanent injury can be healed with extended rest of a length determined by the DM, but the attack leaves a scar. </td>
+    </tr>
+  </table>
 </body>
 </html>
