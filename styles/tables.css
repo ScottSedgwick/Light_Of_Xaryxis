@@ -1,8 +1,8 @@
 body {
   background-color: beige;
+  font-family: 'Cinzel', serif;
 }
 table {
-  font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -13,12 +13,10 @@ td, th {
 }
 
 h1 {
-  font-family: 'IM Fell DW Pica SC';
   font-size: xx-large;
 }
 
 td {
-  font-family: 'IM Fell DW Pica SC';
   font-size: large;
 }
   
@@ -40,7 +38,6 @@ th {
   text-align: left;
   background-color: #dec64d;
   color: rgb(168, 73, 6);
-  font-family: 'IM Fell DW Pica SC';
   font-size: x-large;
 }
 
