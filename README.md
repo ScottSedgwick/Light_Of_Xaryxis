@@ -19,3 +19,11 @@
 - All the characters know each other at the start of the campaign - feel free to work out a backstory.
 - Renaissance Firearms are available, but rare.
 - There is a feat exactly the same as Crossbow Expert, but all references to "Crossbow" and replaced with "Firearm".
+
+## Firearm Feat
+
+Thanks to extensive practice with firearms, you gain the following benefits:
+
+- You ignore the loading quality of firearms with which you are proficient.
+- Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+- When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a pistol you are holding.
