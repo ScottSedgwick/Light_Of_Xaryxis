@@ -32,6 +32,7 @@ Thanks to extensive practice with firearms, you gain the following benefits:
 
 1. Drinking a potion takes a bonus action.  Feeding a potion to another creature takes an action.
 2. A creature being flanked cannot flank other creatures.
+3. When drinking a potion yourself, you can take a full action, and get maximum healing from the potion.
 
 ## Rules we are using from Ravenloft Primer
 
