@@ -50,3 +50,46 @@ Other Feats
 | Resilient            | +1 stat and proficiency with that stat's saves |
 | Squire of Solamnia   | mount up, 1/turn can have advantage on a strike. If it hits, +1d8 damage. Prof Bonus times, but only if it hits. Recover on LR |
 | Strike of the Giants | 1/turn, a strike gains a benefit.  Can use up to Proficiency bonus times, recover on LR |
+
+Ritual Spells
+-------------
+
+| Name                        | Level | Artificer | Paladin |
+|-----------------------------|-------|-----------|---------|
+| *Alarm*                     | 1     | Yes       | No      |
+| *Ceremony*                  | 1     | No        | Yes     |
+| Comprehend Languages        | 1     | No        | No      |
+| *Detect Magic*              | 1     | Yes       | Yes     |
+| *Detect Poison and Disease* | 1     | No        | Yes     |
+| Find Familiar               | 1     | No        | No      |
+| Guiding Hand                | 1     | No        | No      |
+| *Identify*                  | 1     | Yes       | No      |
+| Illusory Script             | 1     | No        | No      |
+| *Purify Food and Drink*     | 1     | Yes       | Yes     |
+| Speak with Animals          | 1     | No        | No      |
+| Tenser's Floating Disk      | 1     | No        | No      |
+| Unseen Servant              | 1     | No        | No      |
+| Wild Cunning                | 1     | No        | No      |
+| Augury                      | 2     | No        | No      |
+| Beast Sense                 | 2     | No        | No      |
+| *Gentle Repose*             | 2     | No        | Yes     |
+| Locate Animals or Plants    | 2     | No        | No      |
+| *Magic Mouth*               | 2     | Yes       | No      |
+| Silence                     | 2     | No        | No      |
+| *Skywrite*                  | 2     | Yes       | No      |
+| Wristpocket                 | 2     | No        | No      |
+| Feign Death                 | 3     | No        | No      |
+| Leomund's Tiny Hut          | 3     | No        | No      |
+| Meld into Stone             | 3     | No        | No      |
+| Phantom Steed               | 3     | No        | No      |
+| *Water Breathing*           | 3     | Yes       | No      |
+| *Water Walk*                | 3     | Yes       | No      |
+| Divination                  | 4     | No        | No      |
+| Widogast's Vault of Amber   | 4     | No        | No      |
+| Commune                     | 5     | No        | No      |
+| Commune with City           | 5     | No        | No      |
+| Commune with Nature         | 5     | No        | No      |
+| Contact Other Plane         | 5     | No        | No      |
+| Rary's Telepathic Bond      | 5     | No        | No      |
+| Dwarmij's Instant Summons   | 6     | No        | No      |
+| Forbiddance                 | 6     | No        | No      |
