@@ -4,4 +4,56 @@ title:  "Session Ten"
 date:   2024-03-10 15:13:39 +1100
 categories: jekyll update
 ---
-## To be continued...
+## 'Were' is the Toymaker
+
+The party travels incognito from the alley full of dead Werespiders, to the Toymaker's house, only to find that the Toymaker has been kidnapped!  Stefano brings us up to speed, and offers the use of an army of awakened Marionettes to help our fight.  Oriana has found her people!  She takes charge of them, while the party is tasked with going into the Big Top.  Esmerelda makes 5 spell scrolls of slottage for Louie.  *Technically* they're poisonous to the touch, but we're going to gloss over that, for reasons that will become clear later.
+
+When we arrive at the Big Top, there are no guards to be seen, but there is a pervasive feeling of being watched.  Dennis is sure there are Werespiders inside, but we can't pinpoint them.  The Captain searches for a side entrance, but there's nothing.  We're going to conveniently overlook that it's a _tent_, and we could cut our way in.
+
+We sneak inside, and it's only when The Captain fails a strength check and bumps into an invisible werespider that it becomes apparent that the place is filled with them - but they gesture us inside.  The Werespider leader, Arachne, is babbling some nonsense that we ignore, because there's a portal in the center of the main ring, which is obviously the next stop on the railroad.  We jump through.
+
+## Lumiere has plot armour
+
+Emerging from the other side of the portal, we find ourselves still in the Big Top, but this one is clean and spiderweb-free.  In the center of the ring is a mutant candelabra/Flesh Golem that is immune to every type of damage (even resistant to force damage) except for the "special" damage done as a side effect - like sneak attack damage, or divine smite damage.
+
+Arachne talks some more (that guy will not shut up) before Lumiere attacks.  As noted above, none of our primary attacks work, nor does stunning or poison.  We burn a lot of resources doing enough damage to drop him. Raymond, for some reason, repeatedly bites the floor. The Captain does consistent damage - he doesn't run out of sneak attacks. During the fight we discover that silvered weapons damage Lumiere normally, and Dennis finds that the seat brackets are silver, so he collects two.  Louie then deals the final blow before Dennis can get back to the fight.
+
+Lumiere drops 2 candles that basically cast Heal.  The Captain accidentally wastes the first one.
+
+The party collects the rest of the silver brackets - we get a total of 15, I think.
+
+## Ethan saw Dune 2
+
+The Big Top fades away, and we find ourselves in a desert.  300 feet away is a Rock. We are told by Arachne, who still will not shut up, that we must reach it in 30 seconds.  Dennis can make that distance in 2 rounds, so he has time to carry one person to the rock, come back and then carry another there in the time limit.  The problem is Raymond, who is too big for Dennis to carry.
+
+That problem solves itself, because the other players want agency for some reason.  When Dennis reaches his full travel distance carrying The Captain, he puts him down and The Captain carries Dennis for his move.  Unfortunately The Captain can't fly, and the ground turns out to be sown with landmines.  In addition, there's something on the Rock that we can't see, that is making ranged attacks against us.  Dennis dodges, but The Captain is hurt.
+
+Louie decides to climb on Raymond and start making his way across the sand.  Raymond dies in the ensuing explosion.  Nooo!  Louie doesn't die, but does manage to shield surf the next landmine - sideways, making the distance he has to go further, but moving him outside the minefield.
+
+Next turn, Dennis gets The Captain to the Rock, and heads back for Louie.  On the Rock, the invisible assailant kills The Captain, and then has a go at Dennis.  Dennis wasn't having any of that - he catches the incoming missile and throws it back, doing pretty good damage to an invisible opponent.  Meanwhile, The Captain (whose body was serving as a crossbow support) manages to light the second candle, and unbeknownst to the invisible assailant, is now well and truly back in the game.  He sneak attacks the guy and kills him.
+
+Dennis doesn't even make it to Louie before Louie is eaten by a sandworm.  This is when the poisonousness of the scrolls comes into play.  Dan points out to Ethan that the worm should be taking poison damage from all 5 of the scrolls, and there is much shouting and hilarity.  We decide not to do that, which is fortuitous.  The Sandworm then one-shots Dennis out of the sky with his tail, but Dennis rolls a natural 20 on his death save to survive.  The Sandworm eats him.  Now Dennis is _also_ touching the scrolls.  That could have been very bad.
+
+Inside the Sandworm, Louie has already been doing damage, and had forced one regurgitation save on the worm, but it made it.  Dennis arrives, 2 death saves down by now, and Louie is faced with a choice - heal himself, and have another go at the worm, but Dennis would auto-fail his last death save when the worms acid damage hits.  Or heal Dennis, knowing Louie would die on the next acid attack, in the hope that Dennis could get them out.
+
+## Louie chooses to trust in his party
+
+Louie heals Dennis for enough to survive the coming acid damage.  The acid hits, Dennis lives, then he bites the hell out of the inside of the worm, doing enough damage to force another regurgitation save and healing himself at the same time.  Dennis and Louie are vomited out, underground.  Dennis is OK, but Louie is counting the rounds until he suffocates.  They proceed to dig themselves out.
+
+Once clear of the sand, Dennis picks up Louie and flies - high - to the Rock.  Arachne says something stupid, Louie and Dennis do something stupid, The Captain drops Hide for long enough to wave so we know he's alive, and then the portal opens for us to go back through.  We're pretty banged up at this point, so Dennis uses the scroll of Heal on himself, and Louie uses the scroll of Regeneration.
+
+We step through the portal.
+
+## Running the Gauntlet
+
+The party finds itself on a trapeze platform, high above the ground but surrounded by webs.  150 feet above us is Arachne and a cocoon.  He says something else stupid - we weren't paying attention - and runs and hides like a scared little girl.  Dennis reckons he can do 150' no problem, and starts off.
+
+Every 10 feet, he has to make a save.  He makes it to 30' up before failing, and falling asleep - but getting stuck to the webs, so he doesn't fall.  It turns out, there is a [Symbol](http://dnd5e.wikidot.com/spell:symbol) spell every 10 feet.  The rest of the party uses ranged attacks on the cocoon, but they aren't effective.  Then the little spiders come out of the web and start biting us.  This wakes Dennis up.
+
+The party spends a round squashing spiders, and while that's fun, it isn't doing much.  They keep coming.  Louie decides it is time for decisive action.
+
+Louie jumps upward 25' to within reach of Dennis, grabs hold and says "Gun it!"  Dennis starts going up.  A new save every 10 feet, but now Dennis has Louie and his aura helping.  70 feet up, Ethan is flabbergasted we haven't failed anything yet.  90 feet up, Louie fails one and is struck with Hopelessless.  Zoe asks Ethan "Does this prevent me from making more saves?"  Ethan says no, and Louie says to Dennis "Keep Going!"
+
+The dynamic duo do keep going, all the way to the top with no more failed saves, to Ethan's absolute disgust, and Archne's total disbelief.  We break into the cocoon before he's had a chance to do anything except look at us in horror.
+
+## Exit stage left, pursued by bears
