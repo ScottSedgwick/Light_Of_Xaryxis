@@ -4,7 +4,7 @@ title:  "Raymond"
 date:   2023-06-18 15:13:39 +1100
 categories: jekyll update
 ---
-## Raymond (Baby Collossal Frog)
+## Raymond (Baby Colossal Frog)
 
 *Large Beast, Unaligned*
 
@@ -34,4 +34,4 @@ categories: jekyll update
 
 ***Swallow.*** The frog makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frogs turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-<img src="https://pbs.twimg.com/media/E6NGHMzXIAs55KF?format=jpg&name=large" alt="Baby Collossal Frog" style="width:440px" />
+<img src="https://pbs.twimg.com/media/E6NGHMzXIAs55KF?format=jpg&name=large" alt="Baby Colossal Frog" style="width:440px" />

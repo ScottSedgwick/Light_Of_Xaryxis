@@ -8,9 +8,9 @@ categories: jekyll update
 
 After leaving Haji and Urasim (forgive spelling?) in Har'Akir, Dennis, Rusty and the Captain sailed the ship to a dig site where we were told we could find Frenden Brasier. The Captain and Rusty stayed aboard to protect the ship, while Dennis went into the dig to find Frenden.
 
-Inside the dig, Dennis found a human with a prosthetic limb, a small humanoid frog, and a really big frog that tried to eat him (Dennis does look a bit like a large insect). The big frog missed. The small frog turned around a raised a morningstar to brain Dennis, to which he replied "You hit me with that pointy stick and I'll shove it up your frogs butt". The human turned around - surprise! It was Esmerelda all along! She introduced her assistant, Louie, and his steed, Raymond.
+Inside the dig, Dennis found a human with a prosthetic limb, a small humanoid frog, and a really big frog that tried to eat him (Dennis does look a bit like a large insect). The big frog missed. The small frog turned around a raised a morning star to brain Dennis, to which he replied "You hit me with that pointy stick and I'll shove it up your frogs butt". The human turned around - surprise! It was Esmerelda all along! She introduced her assistant, Louie, and his steed, Raymond.
 
-Then she told a story about a train that had thundered through Mordentshire, crushing several peasants. She and Louie jumped aboard, and it took them out of the domain of Mordent and into the Mists. The train turned out to be a travelling domain called "Cyre 1313, The Mourning Rail". The story, as best Dennis can recall, went like this:
+Then she told a story about a train that had thundered through Mordentshire, crushing several peasants. She and Louie jumped aboard, and it took them out of the domain of Mordent and into the Mists. The train turned out to be a traveling domain called "Cyre 1313, The Mourning Rail". The story, as best Dennis can recall, went like this:
 
 ## Cyre 1313
 
@@ -22,8 +22,8 @@ rail, known as Cyre 1313, the evacuation was delayed at the demand of a late-arr
 forced from passenger carriages to admit and maintain the secrecy of this last passenger and their retinue.
 When the lightning rail did finally depart, it was too late. The disaster of the Mourning overtook the train
 and its hundreds of escapees. But even as it did, the Mists claimed Cyre 1313 and all aboard it. Now, the
-last lightning rail from Metrol hurtles through the Mists as a travelling domain. Those on board fear the
-disaster pusuing them, the mysterious passenger seated in the train's foremost carriage, and the necrotic
+last lightning rail from Metrol hurtles through the Mists as a traveling domain. Those on board fear the
+disaster pursuing them, the mysterious passenger seated in the train's foremost carriage, and the necrotic
 energy now infusing the engine's elemental spirit. Yet none of the passengers realize their endless escape
 is pointless, as Cyre 131 carries only the dead.
 
@@ -80,7 +80,7 @@ inside of the chest) we heard a hollow thud. Levering up the false bottom, we fo
 * 2000 Dragons
 * Scroll of Dispel Magic
 * 2 Watches (1 Gold, 1 Platinum)
-* Jewelery
+* Jewelry
 
 There may be other stuff as Ethan decides in the future.
 
@@ -110,12 +110,12 @@ shield, and died.
 
 We learned to focus fire on the oozes that had already spawned before moving on, but the field was flooded
 with oozes - the blue ooze kept firing Lesser Restoration to take the conditions off the stunned and
-paralyzed oozes (Dennis has a paralysis poison). Eventually we moved the Moonbean onto the blue ooze, and it
+paralyzed oozes (Dennis has a paralysis poison). Eventually we moved the Moonbeam onto the blue ooze, and it
 spawned a Coldfire Ooze. They do ridiculous damage. At some point we released Raymond from the ship bottle
 to help. He did awesome! But died. Dennis had to drink one of the Superior healing potions. Louie had to
 drink two! Eventually we killed the last ooze, and retrieved a ticket from the blue ooze's corpse.
 
-Then we realised we were being watched. Standing at the door was someone holding a bunch of treasure, who
+Then we realized we were being watched. Standing at the door was someone holding a bunch of treasure, who
 retreated into the forward carriage, closing the door behind them. We're pretty sure it was the killer who
 had stashed all those bodies, returning to put his stuff in the chest.
 

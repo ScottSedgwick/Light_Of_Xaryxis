@@ -71,7 +71,7 @@ categories: jekyll update
 | Three Quarters | +5 AC               |
 | Total          | Can not be targeted |
 
-## Climbing, Swimmming and Crawling
+## Climbing, Swimming and Crawling
 
 While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 

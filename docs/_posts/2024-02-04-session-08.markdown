@@ -45,13 +45,13 @@ The active Soloist attempts to Polymorph us, but we made our saves, so he wasted
 
 Moving in to the next chamber, we see 2 vampires having a romantic dinner by the side of the stream. Dennis wins initiative, and thinks he'll try ranged combat for a change. Won't make that mistake again. He rolled a 1 both times for how many cards he could throw, and did negligible damage to one of the vampires. The male, a warrior, jumped across to the boat and immediately paralyzed Dennis. He then proceeded to whale on Raymond, completely missing the fact that Louie was in the boat too.
 
-While this is going on, The Captain jumps ashore and starts hitting the female, a Sorceror. He's doing pretty good damage, but she's regenerating like crazy, and he's making slow headway. During this, she summons some swarms of bats, which are annoying.
+While this is going on, The Captain jumps ashore and starts hitting the female, a Sorcerer. He's doing pretty good damage, but she's regenerating like crazy, and he's making slow headway. During this, she summons some swarms of bats, which are annoying.
 
 Raymond goes down, and vanishes back to his home plane. A partially digested, dead, halfling clown with a dagger in his neck falls out, and we all wonder where that came from. At this point, Louie goes *off*. He starts beating the ever loving crap out of the warrior, with stacks of nice radiant smiting damage that prevents him from regenerating. That fool goes down pretty fast.
 
-Dennis gets unparalyzed by Louie, jumps over to the Sorceror to hit her, and she uses her reaction to paralyze him before he can get a shot off. She fires off a Mirror Image, so The Captain is sometimes doing damage, sometimes popping images. Just as Dennis gets unparalyzed *again*, she turns invisible and we can't find her. She casts Blight on The Captain from hiding, the coward. We spend the time unparalyzing The Captain (when did that happen?) and killing bats.
+Dennis gets unparalyzed by Louie, jumps over to the Sorcerer to hit her, and she uses her reaction to paralyze him before he can get a shot off. She fires off a Mirror Image, so The Captain is sometimes doing damage, sometimes popping images. Just as Dennis gets unparalyzed *again*, she turns invisible and we can't find her. She casts Blight on The Captain from hiding, the coward. We spend the time unparalyzing The Captain (when did that happen?) and killing bats.
 
-After some soul-searching (impressive, as vampires don't have souls, do they?), the Sorceror decides to drop Concentration on Greater Invisibility to cast Slow on the party. Would have been good if we didn't all make our saves. Louie had the next turn, and went over to the boat (where she was) and hit her - except for Silvery Barbs. He tried 3 times, and missed every time. But the 4th time worked - natural 20! Boom!
+After some soul-searching (impressive, as vampires don't have souls, do they?), the Sorcerer decides to drop Concentration on Greater Invisibility to cast Slow on the party. Would have been good if we didn't all make our saves. Louie had the next turn, and went over to the boat (where she was) and hit her - except for Silvery Barbs. He tried 3 times, and missed every time. But the 4th time worked - natural 20! Boom!
 
 There was some cleaning up of bats after that, but it was a bit anti-climactic, to be honest. :)
 
@@ -69,8 +69,8 @@ Louie got **Cicero's Baton**, the Tunnel of Love disintegrated (which we are ass
 
 ## Cicero's Jeweled Baton
 
-*Wondrous item, legendary (requires attunement by a bard, sorceror or warlock)*
+*Wondrous item, legendary (requires attunement by a bard, sorcerer or warlock)*
 
-This tarnished, ivory-colored wooden stick is bejewelled with rubies. The baton is cone-shaped, with a large fist on the thicker end. The baton can be wielded as a simple melee weapon, doing 1d8 bludgeoning damage. You have a +2 bonus to attack and damage rolls made with this magic weapon.
+This tarnished, ivory-colored wooden stick is bejeweled with rubies. The baton is cone-shaped, with a large fist on the thicker end. The baton can be wielded as a simple melee weapon, doing 1d8 bludgeoning damage. You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
 **Command Performance.** *Cicero's Jeweled Baton* has 5 charges. While holding the baton, you can use an action to put on a show (1 charge). You make a Charisma (Performance) check, which acts as the DC for each creature within 120 feet that can see you. They must use their reaction to make a Charisma (Performance) check, imitating your performance. If a creature fails the check against the DC set by your Performance check by 10 or more, it becomes stunned until the end of its next turn. If you use the last charge, you must roll a d20. On a 20, the baton regains one charge, and you have advantage on your next Charisma (Performance) check. On a 1, the baton is destroyed.

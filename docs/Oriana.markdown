@@ -21,7 +21,7 @@ categories: jekyll update
 
 **Damage Vulnerabilities:** Fire
 
-**Damage Resistances:** Bludgeoning, Pirceing and Slashing from non-magical weapons that aren't silvered.
+**Damage Resistances:** Bludgeoning, Piercing and Slashing from non-magical weapons that aren't silvered.
 
 **Damage Immunities:** Poison
 
@@ -37,7 +37,7 @@ categories: jekyll update
 
 ***Cursed Form.*** As long as the alpha doll's curse remains unbroken, the dolls it created cannot be destroyed. If the doll is targeted by *Remove Curse*, the doll must succeed on a Constitution saving throw against the casters spell save DC. If the doll fails this saving throw or drops to 0 hit points, it becomes inanimate for 24 hours. Whenever the alpha doll's curse is broken, the doll reverts to its true form.
 
-***False Appearance.*** While the doll remains motionless, it is indistiguishable from a normal doll.
+***False Appearance.*** While the doll remains motionless, it is indistinguishable from a normal doll.
 
 
 ***No Strings on Me.*** The doll is immune to any magic that attempts to charm or control it.
