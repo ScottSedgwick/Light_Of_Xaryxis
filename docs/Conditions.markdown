@@ -14,11 +14,11 @@ categories: jekyll update
 
 **Grappled**
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-* The condition ends if the Grappler is incapacitated (see the condition)
+* The condition ends if the Grappler is incapacitated (see the condition).
 * The condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling effect, such as when a creature is hurled away by the Thunderwave spell.
 
 **Incapacitated**
-* An incapacitated creture can't take Actions or Reactions.
+* An incapacitated creature can't take Actions or Reactions.
 
 **Invisible**
 * An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of Hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
@@ -27,8 +27,8 @@ categories: jekyll update
 **Paralyzed**
 * A paralyzed creature is incapacitated (see the condition) and can't move or speak.
 * The creature automatically fails Strength and Dexterity saving throws.
-* Attack rools against the creature have advantage.
-* Any attack that hits the created is a critical hit if the attacker is within 5 feet.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker is within 5 feet.
 
 **Poisoned**
 * A poisoned creature has disadvantage on attack rolls and ability checks.
@@ -40,8 +40,8 @@ categories: jekyll update
 
 **Restrained**
 * A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-* Attack rolls against the creature have advantage, and the creatures attack rolls have disadvantage.
-* The create has disadvantage on Dexterity saving throws.
+* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+* The creature has disadvantage on Dexterity saving throws.
 
 **Stunned**
 * A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
@@ -51,7 +51,7 @@ categories: jekyll update
 **Unconscious**
 * A unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
 * The creature drops whatever its holding and falls prone.
-* The creture automatically fails Strength and Dexterity saving throws.
+* The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
@@ -73,7 +73,7 @@ categories: jekyll update
 
 ## Climbing, Swimmming and Crawling
 
-Costs 1' per foot travelled (2' in difficult terrain) unless you have a movement speed.
+While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 
 ## Jumping
 
@@ -88,7 +88,7 @@ Costs 1' per foot travelled (2' in difficult terrain) unless you have a movement
 
 ## Suffocating
 
-Hold breath for (1 + CON bonus) minutes (min 30 sec).  When out of breath or choking, people can survive (CON bonus) rounds (min 1 round). At the start of theor next turn, they drop to 0 HP and are dying, and can't regain HP or be stabilized until they can breath again.
+Hold breath for (1 + CON bonus) minutes (min 30 sec).  When out of breath or choking, people can survive (CON bonus) rounds (min 1 round). At the start of thier next turn, they drop to 0 HP and are dying, and can't regain HP or be stabilized until they can breathe again.
 
 ## Exhaustion
 
