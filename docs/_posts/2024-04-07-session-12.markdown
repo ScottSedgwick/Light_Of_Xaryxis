@@ -1,0 +1,140 @@
+---
+layout: post
+title:  "Session Twelve"
+date:   2024-04-07 15:13:39 +1100
+categories: jekyll update
+---
+## A sudden absence of Louie
+
+The Toymaker is free, but suddenly Louie is gone, and in his place is a large, leather-wrapped scroll.  The Captain and Dennis open it up, to see it is a game.  Heckna pipes up to tell us it is his favorite game, called "Slaads and Modrons".  Apparently Heckna never went to school, as he wasn't aware that the plural of Slaad is Slaadi.  Dennis, as teacher's pet, gets a scroll of Power Word Heal for that.
+
+Dennis and The Captain jump into the board, and are confronted with a range of mismatched environmental elements, juxtaposed in illogical ways.  There is:
+
+1. An igloo in a desert.
+2. A raging purple tempest.
+3. Ruined medieval towns.
+4. A swamp filled with rats and vermin.
+5. A big fuckoff castle.  That's a quote.
+
+Heckna says we have to find his favorite Dark Lord for all the exposition we require.  _Fine_.
+
+## Search for a Dark Lord
+
+*Obviously* Heckna's favorite Dark Lord is Heckna, the narcissistic asswipe, but there's nothing that obviously corresponds to the Revalia, so we go to the igloo in the desert first.  Inside is a sarcophagus (BTW Heckna, the plural of sarcophagus is sacophagi, not sarcophaguses).  Dennis lights a torch, and is told about the pictures of Ankh-to-pot that are revealed on the walls, but all he really wanted was something to light the mummy on fire when it came out of the sarcophagus.  The Captain _tears_ the lid off the sarcophagus, and a joke boxing glove on a spring comes out.  The Captain saves, Dennis takes a hit.  This knocks him down far enough that he uses his Scroll of Power Word Heal on himself.
+
+Heckna pipes up to say something irrelevant, and we ignore him.  Behind a false back to the sarcophagus are 2 scrolls: a Scroll of Heal and a Scroll of Mass Heal.  The Captain uses Heal on himself, and gets a popup saying "Agree to promotional popups?".  He checks "Agree", and the image fades away.  Spoooky.  Dennis takes the Mass Heal scroll.
+
+## That was the wrong door.  What's next?
+
+We get out of fake Har'Akir, and decide to go into #5, the big fuckoff castle.  We fly over the rickety bridge and see a burly guy on a cart harnessed to skeletal horses.  His name is Ogriff, and he's run out of wine.  We don't have any, but that's a plot hook for later.
+
+We go to the double doors, and they open by themselves.  Inside are 3 female Grung, dressed in aristocratic finery.  They take us to a room with a huge pipe organ, being played by a figure in black and red formal wear.  He's pretty good - he makes a pipe organ sound like a grand piano, impressive! In defiance of Ethan's expectations of the group, we wait respectfully for the guy to finish.  What kind of barbarians does he take us for?
+
+When he finishes, the organ player turns to face us.  He is a black Slaad, and introduces himself as "Slaad von Zarovitch".  He and his consorts take us to a room and present us with a feast.  Dennis immediately decides to eat, and The Captain is cautious.  Weird.  Dennis gets the benefits of a Heroes Feast, which convinces The Captain to join in.
+
+## Exposition time!
+
+Slaad von Zarovitch tells us of the Spawning Stone, which we can see out the window.  It is, apparently, spawning Slaad and will soon unbalance the realm of Slaad*i* and Modrons.  To destroy it, we need to strike it with the sword Blackrazor, wielded by a Modron. Blackrazor is currently in the possession of the Chaos Lord Ygorl. There is a Modron in the castle vault, if we can get in.  There are Slaadi we can take as allies, if we can get their control gems, behind the slimy door.
+
+Slaad von Zarovitch tells of the known Slaad weaknesses:
+
+1. Clove oil - coating a weapon with it forces a CON save or they are incapacitated for a round.
+2. Alcohol - coating a weapon with it forces a CON save or they take 3d6 damage.
+3. Magic spores: _"Nubius Mortificantus"_.  When applied to their skin, they must make a CON save or they are vulnerable to all damage.
+
+## Time to gather stuff
+
+We head to the kitchen. Dennis picks up 8 vials of Clove Oil, and loads them into his spear.  The Captain gets 3 bottles of Champagne du Stomp.  We head out to Ogriff, and arrange to trade some Champagne for some "Noob Morto" (The Captain has a poor memory).  There is some haggling, but we weren't desperate for it, so end up getting 5 doses for one bottle of Champagne.  Ogriff only agreed to 4, but The Captain stole one more while he wasn't looking.
+
+Then we head to the slimy door.  Opposite it, there is the door to the vault.
+
+## First look at "That Code"
+
+The vault door has 3 rows, each containing a number, and a set of squares with rotating letter wheels:
+
+| Number | Wheel count |
+| ------ | ----------- |
+| 3712   | 6           |
+| 38925  | 8           |
+| 982    | 6           |
+
+The wheels had the following letters on them.  Dennis immediately assigned them numbers:
+
+| Letter | Dennis' number |
+| ------ | -------------- |
+| B      | 0              |
+| R      | 1              |
+| N      | 2              |
+| M      | 3              |
+| G      | 4              |
+| S      | 5              |
+| T      | 6              |
+| D      | 7              |
+| C      | 8              |
+| H      | 9              |
+
+He decoded the first row as "BBMDRN", giving 3712 two preceding zeroes so it had the same numeric value.  Slaad von Zarovitch says there is a cipher in the slimy room that we will need, so we stop there.
+
+The slimy door has an inscription on it written in Slaad.  Dennis looks expectantly at Slaad von Zarovitch, who looks back.  Dennis asks Slaad to translate it, please, and Slaad says "It's your time to shine, do it yourself".  Turns out Ethan *was* aware of the Monk ability to speak all known languages, but not that 1) Monks didn't get it until 13th level; 2) One DnD Monks don't get it at all; and 3) It only works on spoken languages, not written ones.
+
+Slaad von Zarovitch consents to translate for us.
+
+It says "Only those who understand chaos may enter".  Dennis looks at the door, with no handle, and says that's a Health and Safety issue right there.  The Captain licks it.  The door opens.
+
+Still a H&S issue.  You don't want to be licking doors if there is a fire, you'll burn your tongue.
+
+## The Captain is Confusing
+
+Inside the room is a mess of chaos.  We are explicitly warned that shit will get weird in here.  Ambush!  Dennis and The Captain are surprised!  We are attacked by a Green Slaad (who casts a fireball), and a Blue Slaad, a Red Slaad and a Grey Slaad.  Except for the Green one, they all run in to melee.  Dennis and the Captain are basically fireball immune, but the Grey Slaad does manage to hit Dennis with some effect that isn't immediately clear.  It also bit The Captain, but he made his save.  The Grey Slaad also casts Mirror Image on itself on the run in.
+
+Dennis shadow jumps behind the Green Slaad (with the help of Slaad von Zarovitch, who casts darkness behind the Green Slaad as a shadow portal target).  He tries to stab him with his spear, but it suffers from erectile dysfunction both times and misses.  Dennis retreats back into the shadows, deliberately prompting an opportunity attack so he can redirect it, but the stupid Slaad misses.
+
+The Captain casts Confusion from his Ring of Spell Storing, which works *awesomely*.  All the Slaadi in range fail their WIS save (the Green one is too far away, unfortunately). They spend the rest of combat being useless.
+
+The Green Slaad fires at The Captain, but misses.  Dennis steps back out of the Darkness and hits the Green Slaad with his spear, which has recovered.  That had never happened before, honestly!  The Green Slaad now has a gem sticking out of its head, which Dennis grabs with a Medicine check.  He is now under our control, and we rename him Booger.
+
+Over in the Slaadi cluster, the Red Slaad already has the gem showing because of the Confusion, and Dennis and The Captain go back over there.  The Red and Blue Slaad both take out a Grey Slaad mirror image with random attacks, Dennis manages to get the gem out of the Red Slaad (who is renamed Blood-Axe), and The Captain manages to get the gem from the Blue Slaad, which he names Blue Slaad.  I think he revised that to Bluey later on.
+
+The Grey Slaad is the last one standing, but Dennis gets the gem from him and gives it to The Captain.  We name him Cinderblock.
+
+None of the Slaadi managed to save against The Captain's confusion, except Blood-Axe, who immediately after being taken over by Dennis saved by rolling two simultaneous natural twenties.  I just want that on the record.
+
+## The Eyes have it.
+
+At the far end of the chamber is a massive eyeball.  The Captain goes up to it, and is affected by a big hit of necrotic damage.  Dennis doesn't take kindly to that and pummels the eye with throwing cards.  The eye doesn't take kindly to that and *hammers* us with some massive AoE that for some reason is CON based instead of DEX.  That's not fair.  Anyway, Dennis is down to about 10HP and blind, and The Captain is on death saves.  Dennis unblinds and heals himself a bit with Hand of Heal, then flies up to The Captain, picks up his body and flies away.  The Eyeball fires 10 globs of sleep at us, all aimed at The Captain.  Don't know what he did to be targeted like that, but in this chaotic world, Damage Redirection works different, and Dennis flies into action.  He deflects every single one.  Then runs away, and Hand of Heals The Captain back to life.
+
+The Captain drinks a potion to heal.  Slaad von Zarovitch casts Heal on Dennis.  Dennis takes another look at the Eye, which has gone back to sleep, and sees that the blood vessels on the Eye make up words and numbers.  It's a C-Eye-pher!  We write down what we can to the best of our ability, but some of the cipher has been ruined by the throwing cards.  Regardless, it is sufficient that it is obvious that Dennis' original guess was 100% correct, so we have the whole thing.
+
+## Second shot at "That Code"
+
+Heading back, we translate the numbers into "words":
+
+| Number | Word  |
+| ------ | ----- |
+| 3712   | MDRN  |
+| 38925  | MCHNS |
+| 982    | HCN   |
+
+Obviously the words are "Modron", "Mechanus" and "Heckna", but how to encode them in the wheels, which have no vowels?  How, Ethan, how?
+
+Much time was spent, replacing letters with similar things to simulate vowels. "B" was popular for "O", because it's number was "0".  "M" got used for "E", because it looks a bit like one on its side, and it's number was "3". We tried "G" for "A", because it's number was "4" which looks a _bit_ like an A, but we were stretching at this point.  Trying to find something to represent "U" was a total crap shoot.  I think we went with "C", because it's a bit like a "U" on it's side.  None of it worked, until suddenly it did.  It's a _*mystery*_ why that happened.  Nobody has _*any idea*_.
+
+## We are cryptographic GODS
+
+So, we got into the vault.  It is a moving mechanical modron world.  We have to get to the far end through all the moving parts to reach our Modron.  First, we tell our Slaadi to wait here - no point getting them crushed in any gears.  Dennis picks up The Captain to fly over the problems, but is told in no uncertain terms to knock that shit off.  Back to ground, then.
+
+Dennis spends a round watching closely - this is the world of Mechanus, it should be predictable.  He is told, and I quote, "there is no pattern".  WTF?
+
+Every 30' of movement, we have to roll a dice to get evens or odds.  One results in a STR save or conveyer belts move you a random distance back.  The other results in a DEX save or you are damaged by steam venting.  The correspondence of odd/even appears to shift, though.  Not very predictable.  Anyway.
+
+Dennis gets far enough along to see what the Modron is doing a little before The Captain, and it turns out he is repairing a Marut.  The Marut turns and challenges Dennis, saying he is not authorized.  Dennis says he is authorized, and a keyboard pops out of the wall next to him.  A voice says "Enter Credentials", so Dennis does.  Turns out they actually wanted a password, which was unclear, and "credentials" wasn't right.  The Marut gets upset.  Dennis retreats out of line of sight.
+
+The Captain is catching up, and he has a go at entering some credentials too.  It is at this point that Ethan figures maybe he better actually think of what the password would be.  Thanks, Ethan.  So he does, and the brain game is on.  The Marut is advancing while we figure out from context clues what the password would be.  We tried a few variations of Primus and prime numbers, and got a clue that the Primus idea was on the right track.  The real clue came when The Captain entered "10" at the same time as Dennis punched the Marut in the brass nuts, and the display briefly showed the letter "J".
+
+Now it's obvious that the cipher is a simple numeric Caesar cipher with an offset of zero, and The Captain figures the word is probably "MECHANUS", so a quick 135381142119 later and the system goes into standby mode.  At this point Dennis is down to 14HP (from 109), and was only alive because he redirected a solid portion of one of the Marut's auto-hit 30HP strikes.  The Captain didn't even _see_ the Marut, I don't think.
+
+## End scene
+
+Anyway, we pick up the Modron, and head out.  The Modron is unit 8008135, to Dan's delight.  
+
+By this point it's 23:35, and it's now that Ethan reveals that he repurposed the cipher from a different game, and completely didn't realize that we had no way to stick vowels in.  Thanks, Ethan!
