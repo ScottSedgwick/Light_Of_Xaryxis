@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Session Fourteen"
+date:   2024-05-05 15:13:39 +1100
+categories: jekyll update
+---
+
+## Exit the Game
+
+Hecna (or his voice) resurfaces long enough to tell is we won "Slaadi and Modrons".  Yeah, we know.  We were there.
+
+Anyway, we reappear next to the Toymaker and Arachne's decaying corpse.  The Toymaker takes us back to his personal tent, and through his spokesman, tells us of the current state of play regarding the ChooChooCadre.  We still need to retrieve:
+
+* The chair (that Hecna _stole_)
+* The Throttle Lever, which is supposed to be in the Fun Room.
+* Some engine lubricant, which is supposed to be in Sophie's lair.
+
+The Toymaker thinks that because Sophie is Hecna's right hand gal, that killing her would prompt Hecna to "invite" us into the Fun House.  This is Dennis' kind of plan.
+
+Before we depart, the Toymaker gives us all gifts:
+
+* The Captain gets Bigby's Benificent Bracelet.
+* Louie gets a Robe of Eyes.
+* Dennis gets his Dragonhide Belt upgraded from +2 to +3.
+
+The party then takes a long rest (finally!).  During our nap, Blackrazor attempts to influence Raymond, who was eyeing off a fly for a snack. _"Don't you dare! That is mine!"_  Raymond is apparently smarter than Blackrazor, because he realizes that he doesn't care if Blackrazor eats the fly's soul - it's body is still going to be there, and that's all Raymond wants.  This promises to be the start of a beautiful friendship.  Raymond _bisects_ the fly using Blackrazor, then eats the two halves.
+
+Then we head out to get a comfy chair, a throttle, and a big bucket of lube.
+
+## The Floppyhouse
+
+The party stealths through the rioting streets to the Flophouse.  The Toymaker opens the door for us, and inside, it is dark, empty and heavily damaged.  Dennis spots some bottles by the bar - we gather them up:
+
+* Snowcone (Ray of Frost for 1 hour) - Raymond
+* Fireball shot (Fireball) - Raymond.
+* Moonshine (Moonbeam) - The Captain
+* Greater Healing - The Captain.
+
+Dirk and the Countess (the owner of the flophouse and his plasmoid floozy) pop up from behind an overturned table.  He is distraught at what they have done to his bar.  He tries to blackmail the party to not alert the authorities to our presence - we respond by intimidating him to keep quiet, and telling him to leave.  Then killing them both as they tried to leave.  We never liked those two.
+
+A set of Malevolent Meta Dice fall out of Dirks pockets, which The Captain picks up.  They can change one dice roll of each type before disappearing.  We also got 300 tickets.  We're rich!
+
+The Toymaker opens to doorway to the slide to Sophie's lab, and the party stealths up it.  So well did we stealth, that the swarm of Hecna-spiders covering the ceiling of the slide did not notice us.  We are stealthy Gods!
+
+## Come on up to the Lab
+
+We sneak out the end of the slide and get surprise on Sophie in her lab.  The Captain _blitzes_ initiative, Dennis goes second, then Louie, then Sophie (when she gets a go).  
+
+**Surprise Round:** The Captain shoots her, Dennis flies over (dodging some wax dolls attacks on the way) and punches Sophie 4 times, burning through 2 of her Legendary Resistances (she saved normally twice).  Raymond leaps across the room and Louie has a go, but misses.  Raymond then has a go and kicks _arse_.  This is the start of a pattern.
+
+**Second Round:** The Captain does not save against noxious fumes, and takes significant damage, as well as getting the poisoned condition.  He decides to try something new and casts Bigby's Hand using the Bracelet.  He does big damage to Sophie with it.  Sophie uses her Legendary Reaction to cast Mirror Image.  Dennis punches once (image go poof) twice (image go poof), thrice - critical hit!  Sophie loses two teeth and her last Legendary Resistance.  Louie goes next, but Sophie uses her reaction to cast Shield and he misses.  Raymond (now Hasted by Blackrazor) takes 4 swings at Sophie, but only hits once.  On her turn, Sophie drinks a potion and visibly heals, and casts a spell.  She looks much more confident and smug after that.  Then she calls out to Pinkie to come and deal with us.  Pinkie comes into the room and takes a swing at Louie, but misses.
+
+**Third Round:** The Captain starts by using the Hand to wave away the noxious fumes, making the lab environment much safer.  Score one for the OH&S crew!  He then shoots Sophie, but the crossbow bolt ricochets away when it gets within an inch or so.  Dennis has a go at punching her, but he also is thwarted by the force field surrounding Sophie.  Dennis decides to use the remainder of his attacks to try and hit Pinkie, but she also has some weird defense - solid hits coming in cause the wax that is all over her body to briefly harden, blocking the attack.  Louie tries to dispel the spell surrounding Sophie, but it doesn't work.  Raymond takes a swing and is also blocked, so he jumps backward and fireballs the room.  The AoE covered Pinkie and Sophie, but also Dennis.  If you're not willing to shell your own position, you're not willing to win! ([Maxim 20](https://schlockmercenary.fandom.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries))  Dennis is, thankfully, practically immune to fireballs.  The fireball does double damage to Pinkie, but that force field protects Sophie.  A partially melted Pinkie has a go at Dennis but misses, and Sophie re-casts Mirror Image.
+
+**Fourth Round:**  The Captain uses the Hand to try and tunnel under the force field, but it completely surrounds her.  Frustrated, he picks up the cauldron (with the Hand), tips it over, and drops it on top of Sophie.  This was an _inspired_ move.  It prevents her from seeing us, and effectively takes her out of the fight unless she wants to drop that force field.  Unfortunately, it also covers half the floor with a truly noxious liquid - minus one for the OH&S crew.  Raymond is the only one that takes any damage from it, but it was _bad_.  Around this time, we discover that if we roll _badly_ enough to hit Pinkie, the hits get through.  This causes all sorts of shenanigans to attempt to _lower_ our to hit bonuses, and give ourselves disadvantage to hit.  Dennis is _useless_ at this - he's just too good!  Raymond gets the last hit (this is a continuation of that pattern I mentioned earlier - he is the MVP).
+
+## And see what's on the Slab
+
+The Captain, now invisible and hidden, has his second inspired idea of the day.  He stands atop the cauldron wielding the body of Pinkie, using it as a huge drumstick to hammer out a sick beat on the cauldron.  Sophie is shrieking "Stop that! Shut up!" but of course we ignore her.
+
+Sophie telepathically summons 9 Candelabra Guards to help her.  We try to con them into helping to drum, telling them Sophie needs them to help her by beating on the cauldron.  Unfortunately, they don't fall for it.  Damn Telepathy.  Raymond attempts to hide behind some barrels, but he's too big.
+
+**Fifth Round:** The Candelabra attack!  They trigger Dennis' held attack first, and he stuns their leader.  The remainder try to variously hit Dennis, Louie and Raymond, but they can't hit for shit and they all miss.  
+
+The Captain keeps drumming, but the Hand is drumming too, so it doesn't give away his position as he is still invisible.  The Hand does yeet one Candelabra 50' down the corridor they came up.  Dennis tosses the stunned Candelabra into the poison, but Ethan's run of terrible rolls works in his favor here, and it takes almost no damage.  Dennis hits the next Candelabra in line and paralyzes it.  Louie and Raymond have an absolute Crit-Fest and kill another one.  The Candelabra have not improved their aim and all miss again.
+
+**Sixth Round:** The Captain finally gets a critical success on his drumming performance, and exceeds Sophies concentration to hold her force field.  The cauldron drops on her head, doing minor damage.  She flees!
+
+The Captain catches up with her, but used all his actions to get there and can't attack.  He brings the Hand too, which stands in front of Sophie.  Dennis then catches up, punches Sophie (mirror image go poof), then hits Sophie and stuns her.  Louie and Raymond arrive and beat the crap out of her.  As a boss, Sophie gets minor actions while stunned - she renews her Mirror Image.
+
+**Seventh Round:** The Captain starts hitting.  Once - mirror image!  Twice - mirror image!  The Hand shoves her 50' back into her lab, knocking down her Candelabra like bowling pins as she flies through.  Dennis follows her into the lab, stabs her with a spear (paralyzed!), then crits her until she dies.  The Candelabra collapse upon the death of their master.
+
+The last thing the party notices is a book on a shelf - "The Liches Love - A Neck-romantic Comedy" by Dr Sophie.  The first chapter ("A Bone to Pick") is complete, but that was all she wrote.
+
+## And that was all she wrote
