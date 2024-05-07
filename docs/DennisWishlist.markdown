@@ -7,6 +7,8 @@ categories: jekyll update
 
 # Awesome cool things I would like any of
 
+Not listed in any particular order.
+
 * [Belashyrra's Beholder Crown]({{site.baseurl}}/BelashyrrasBeholderCrown.html)
 * [Danoth's Visor]({{site.baseurl}}/DanothsVisor.html)
 * [Gloves of Soul Catching]({{site.baseurl}}/GlovesOfSoulCatching.html)
@@ -27,7 +29,7 @@ Any of these are welcome at any time.
 
 # Decks of Things
 
-All of these are cool, but its up to Ethan whether he wants this chaos.  
+All of these are cool, but its up to Ethan whether he wants this chaos.  Listed in order of goodness.
 
 * [Deck of Wonder]({{site.baseurl}}/DeckOfWonder.html)
 * [Deck of Several Things]({{site.baseurl}}/DeckOfSeveralThings.html)
