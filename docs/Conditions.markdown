@@ -48,6 +48,19 @@ categories: jekyll update
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 
+**Stunned - Boss creatures**
+* On each of its turns, the stunned creature can take its action or bonus action, but not both.
+* The stunned creature’s speed is 0.
+* The stunned creature cannot take reactions.
+* The stunned creature can only make a single attack on each of its turns.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+
+**Surprised**
+* A surprised creature cannot move or take an action on the first turn of combat.
+* A surprised creature cannot take a reaction until the first turn ends.
+* A member of a group can be surprised even if other members aren't.
+
 **Unconscious**
 * A unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
 * The creature drops whatever its holding and falls prone.

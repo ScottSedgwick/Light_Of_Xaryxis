@@ -27,6 +27,9 @@ layout: default
 * **[Blackrazor]({{site.baseurl}}/Blackrazor.html)**
 * **[Dragonhide Belt]({{site.baseurl}}/DragonhideBelt.html)**
 * **[Robe of Eyes]({{site.baseurl}}/RobeOfEyes.html)**
+* **[Throwing Cards]({{site.baseurl}}/ThrowingCards.html)**
+
+**[Dennis' Wishlist]({{site.baseurl}}/DennisWishlist.html)**
 
 ### Ethan's Homebrew
 
