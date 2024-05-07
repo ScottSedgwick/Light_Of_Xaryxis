@@ -17,6 +17,22 @@ layout: default
 * **[Raymond]({{site.baseurl}}/Raymond.html)** - *Zoe*
 * **[Minion]({{site.baseurl}}/Minion.html)** - *Scott*
 
+### Helper sheets
+
+* [Conditions]({{site.baseurl}}/Conditions.html)
+
+### Magic Items
+
+* **[Bigby's Benificent Bracelet]({{site.baseurl}}/BigbysBracelet.html)**
+* **[Blackrazor]({{site.baseurl}}/Blackrazor.html)**
+* **[Dragonhide Belt]({{site.baseurl}}/DragonhideBelt.html)**
+* **[Robe of Eyes]({{site.baseurl}}/RobeOfEyes.html)**
+
+### Ethan's Homebrew
+
+* [Feats]({{site.baseurl}}/Cyre1313HomebrewFeats.html)
+* [Poisons]({{site.baseurl}}/Poisons.html)
+
 ### Special Guests!
 
 * **Tilly** - *Kirsty*
@@ -24,12 +40,3 @@ layout: default
 * **Lily** - *Kirsty*
 * **Milly** - *Kirsty*
 * **Willy** - *Kirsty*
-
-### Helper sheets
-
-* [Conditions]({{site.baseurl}}/Conditions.html)
-
-### Ethan's Homebrew
-
-* [Feats]({{site.baseurl}}/Cyre1313HomebrewFeats.html)
-* [Poisons]({{site.baseurl}}/Poisons.html)
