@@ -27,12 +27,12 @@ Any of these are welcome at any time.
 
 # Decks of Things
 
-All of these are cool, but its up to Ethan whether he wants this chaos.
+All of these are cool, but its up to Ethan whether he wants this chaos.  
 
-* [Deck of Many Things]({{site.baseurl}}/DeckOfManyThings.html)
-* [Deck of Many More Things]({{site.baseurl}}/DeckOfManyMoreThings.html)
-* [Deck of Several Things]({{site.baseurl}}/DeckOfManyMoreThings.html)
 * [Deck of Wonder]({{site.baseurl}}/DeckOfWonder.html)
+* [Deck of Several Things]({{site.baseurl}}/DeckOfSeveralThings.html)
+* [Deck of Many More Things]({{site.baseurl}}/DeckOfManyMoreThings.html)
+* [Deck of Many Things]({{site.baseurl}}/DeckOfManyThings.html)
 
 ## Other stuff that looked cool, but I'm not sure about
 
