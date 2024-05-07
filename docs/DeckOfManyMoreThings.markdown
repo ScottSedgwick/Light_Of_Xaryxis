@@ -6,6 +6,21 @@ categories: jekyll update
 ---
 # Deck of Many More Things
 
+Source: The Book of Many Things
+
+*Wondrous item, legendary*
+
+Over the centuries since the first Deck of Many Things was created, many have sought and failed to replicate it. But some have created new cards. These forty-four additional cards are known collectively as the Deck of Many More Things.
+Like the Deck of Many Things, the Deck of Many More Things manifests differently on various worlds. While it can include fewer or different cards, it frequently appears with a Deck of Many Things as part of a combined deck of sixty-six illuminated cards. The combined deck is usually protected by a box or pouch. The forty-four cards of the Deck of Many More Things bear similar imagery to those in the Deck of Many Things and have potent magical effects, which are detailed later in this description. Notably, cards from the Deck of Many More Things are more likely to be beneficial, though about a third of them are still dangerous.
+
+Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly. Unless a card allows you to draw additional cards, any cards drawn exceeding this number have no effect.
+
+As soon as you draw a card, its magic takes effect. You must draw each card you declared no more than 1 hour after the previous draw. Unless a card states otherwise, if you fail to draw the chosen number, the remaining number of cards fly from the deck and take effect simultaneously.
+
+Unless it is the Fool or the Jester card, a drawn card immediately takes effect, fades from existence, and reappears in the deck, making it possible to draw the same card multiple times.
+
+The DM can use the physical cards provided in The Deck of Many Things card set to build a combined Deck of Many Things and Deck of Many More Things, including whichever cards they desire. Alternatively, roll on the Deck of Many More Things table below to randomly determine what cards are drawn.
+
 | Scope | d100  | Card         | Effect     |
 | ----- | ----- | ------------ | ---------- |
 | A     | 01    | Aberration   | You gain telepathy within a range of 90 feet. |

@@ -6,6 +6,18 @@ categories: jekyll update
 ---
 # Deck of Wonder
 
+Source: The Book of Many Things
+
+*Wondrous Item, Uncommon*
+
+Created in the image of the Deck of Many Things, this deck of ivory or vellum cards bestows an assortment of minor benefits and penalties on those who draw from it. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
+
+Before you draw a card, you must declare how many cards you intend to draw, then draw them randomly. Any additional cards drawn have no effect. Unless a card states otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card you declared no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck and take effect simultaneously.
+
+Unless it is the Mystery card, a drawn card immediately takes effect, fades from existence, and reappears in the deck, making it possible to draw the same card multiple times.
+
+You can use an altered deck of playing cards to simulate the deck, as shown in the Deck of Wonder table.
+
 | Scope | Playing Card      | Card        | Effect |
 | ----- | ----------------- | ----------- | ------ |
 | B     | Ace of Diamonds   | Chancellor* | Within 8 hours of drawing this card, you can cast Augury once as an action, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). |
