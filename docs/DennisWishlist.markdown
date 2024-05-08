@@ -16,6 +16,8 @@ Not listed in any particular order.
 * [Mask of the Dragon Queen]({{site.baseurl}}/MaskOfTheDragonQueen.html) (Unique)
 * [Mudslick Tower]({{site.baseurl}}/MudslickTower.html) (Very Rare)
 * [Wraps of Unarmed Prowess]({{site.baseurl}}/WrapsOfUnarmedProwess.html) (Uncommon to Very Rare)
+* [Dagger of Blindsight]({{site.baseurl}}/DaggerOfBlindsight.html) (Rare)
+* [Ever-Smoking Bottle]({{site.baseurl}}/EverSmokingBottle.html) (Uncommon)
 
 The only two in this list that do not require attunement are the Wraps and the Insignia. Just noting, because Dennis only has one attunement slot left.
 
