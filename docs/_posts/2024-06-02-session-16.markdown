@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Session Sixteen"
+date:   2024-06-02 15:13:39 +1100
+categories: jekyll update
+---
+# Some rescue this turned into
+
+Louie, Raymond and Dennis find themselves in a room covered in mirrors, with faded red carpet.  One mirror says "Do you even know who you are any more?".  Nothing to fight, and no way out.
+
+Dennis notices a small, fanged mirror with a "D" on it.  This gave rise to the expected jokes. The mirror was slightly magical, but we couldn't figure out how to use it.  Dennis assumed that it would spy on us, given the chance, so he borrowed one of Louie's *extensive* shoe collection, placed the mirror inside it, and put it into his backpack.  Dennis immediately noticed that the mirror re-appeared in its original location. At this point, Louie noticed a lily-pad shaped mirror with the same characteristics.
+
+It was at this point we noticed that the trash compactor walls were closing in, and the number of mirrors was reducing - but the number of mirrors with the message on was *increasing*.
+
+We stared into our mirrors and told them who we were, which was good enough.  We teleported out.
+
+# The lobby of hell
+
+We find ourselves in a new room.  We recognise it from flashes we saw from the cheese room - it's the lobby.  There are sofas scattered about, and red shag carpet.  Posters of Heckna cover the walls with grimaces on them.  McDonalds merchandising gets everywhere. Large double doors are at the end of the room, and there are 2 doors on each side wall.  Seated on one of the sofas is a clown.
+
+He introduces himself as Us'Eless, and he is a purveyor of goods.  His current stock includes:
+
+1. A fineberry.  It is a very nice berry, but has no magical power.  It costs 1 red ticket.
+2. A trumpet of vanishing. It makes the player invisible, but has to be continuously played. It costs 30 red tickets.
+3. A ring of 3 fishes.  It summons a fish whenever you sit down to a meal.  It is unclear if the fish is alive or dead - testing would be required. It costs 20 red tickets.
+4. A bag of molding.  It makes anything placed inside go moldy. It costs 20 red tickets.
+5. A Clock of Elevenkind.  It is just 11 cloaks, sewn together.  It costs 15 red tickets.
+6. A ring of sexual protection.  It makes you immune to disease, but has to be worn - well, you know where.  It costs 200 red tickets.
+7. A hat of attunement.  If you attune to it, it gives you one more attunement slot. It costs 40 red tickets.
+8. A deck of wonderful things.  It costs 200 red tickets.
+9. An immovable Todd.  It is a mannikin, and cannot be moved.  It costs 20 red tickets, shipping not included.
+10. Gauntlets of fire detection.  If you wear them, you can detect fire - range of touch.  They cost 20 red tickets.
+11. A feather boa of disguise.  It allows you to cast Disguise Self at will, but a feather is always visible. It costs 100 red tickets.
+12. Light vision goggles.  When worn, they make you immune to light.  They cost 10 red tickets.
+
+While we are finding all this out, The Captain steals the ring of sexual healing without Us'Eless spotting it.
+
+Dennis buys the Deck of Wonderful things and the Ring of 3 fishes.  Louie buys everything else, except the immovable Todd. He's most excited about the Light vision goggles, which combined with his Robe of Eyes, should make him immune to flash attacks (currently a weakness of his).  Rusty would be interested in the Hat of Attunement.  He'd like to see if he can work the bugs out of that.
+
+Dennis immediately draws 3 cards from his deck, and gets the King of Diamonds (+1 to all saving throws until the end of your next long rest), the Jack of Clubs (+2d10 to current and max HP for 8 hours), and the Ace of Spades, whereupon he vanishes.  Louie asks Us'Eless what happened to him and he replies "Well, that happens sometimes with that deck.  He's dead.  Move on."
+
+This caused less consternation that Dennis had hoped for, and 3 minutes later, he reappears.  Louie asked him where he had been and he responded "A wonderful place."  He had been to the Dennis singularity, and plane full of Dennis'.
+
+We then have a short rest, and go through a door (right side, furthest from the double doors).  There is a puzzle on the floor.  We take some damage working through it, but not much.  Louie figures it out.  We had to spell out Heckna *again*.  Fucking narcissist.
+
+# The maze of keep-away
+
+We find ourselves in a maze, which is not nearly as challenging as it would have been had we not been able to see it laid out on the battle map.  We travel from the Funko Pop Mind Flayer to the Funko Pop Dragon, but there's nothing there.  So we redirect to the Bigby's Hand, and find a door with *lots* of locks.  The Captain says he should be able to pick them, but will need a full, uninterrupted minute to work.  Then we hear the clangs, coming closer.
+
+Dennis, with an already deep-seated phobia of monkeys, knows what it is before it appears - it is a mechanical monkey, banging cymbals together.  It approaches at blinding speed, hitting Louie first (he is at the back of the party).  They both disappear, and reappear in randomly selected spawn points in the maze.
+
+Dennis sets up at the furthest choke point from The Captain, and readies his spear to strike the monkey as soon as it comes into range.  He hits it, doing no damage, and they both reappear somewhere else.  Dennis races back into position on his turn, using full movement and bonus action dash, leaving him free to hold his action again.
+
+This time, he attacks with throwing cards, and manages to do some actual damage with a critical hit.  We discover that crits damage the monkey, slow it down, and make it vulnerable to attacks for the rest of the round - but hitting it with melee attacks causes both parties to teleport, and the teleport does psychic damage to us.  
+
+The monkey moves forward and hits Dennis, and this time they teleport close to one another.  Dennis tries something new - he gets out his rope and lassos the Monkey.  This causes him to teleport, but the Monkey comes too.  That is when we find the monkey can misty step out of bindings.
+
+Anyway, we keep protecting The Captain, and eventually got another crit which made it vulnerable again, and did enough damage to destroy it.  The Captain gets the door open.
+
+# We reach the Control Center
+
+We enter a large, square room, with a huge model of the Revallia.  It even has tiny moving people on it.  Some of them are repairing the Heckna's Eye ferris wheel.  *Obviously*, Dennis knocks it over again.  It sticks to his finger, and does pretty hefty acid damage.  It's a huge Mimic! 
+
+Dennis hits it with his right hand, which sticks, but he makes it make a save vs stunning which it fails - but burns one Legendary Resistance.  Dennis then stabs it with his spear, held in his left hand.  It also sticks.  Dennis disengages by shadow stepping away, which Ethan thoughtlessly allows.  Later in the combat he realizes Dennis shouldn't have been able to do that because the lighting is too bright, but it's too late by then.
+
+The Mimic attacks Louie, and then vanishes into his clothes.  Dennis heals himself, because there's nothing to hit.  Louie knows what he has to do.
+
+Moonbeam on his own position.  The Mimic reappears!  So does the Doppelganger from the train that Louie has been carrying around in a glass jar.  Huh.
+
+Everyone takes damage.  The Doppelganger attacks - the Mimic!?  The Mimic attacks Louie.  Dennis throws some cards, then stabs the Mimic with his spear.  The Mimic fails against stun but burns another Legendary Resistance.  The spear is stuck.  Louie and Raymond beat the Mimic hard, and we find that Blackrazor is immune to the Mimic's stickiness.  Raymond really is the MVP.  The Mimic steps out of the Moonbeam and disappears again.
+
+Dennis rolls really well for investigation, and spots the Mimic, hiding as an extra rivet on Dennis' spear.  Idiot.  Rusty isn't so unprofessional as to use rivets - he forges and welds!  Dennis kicks the spear back into the Moonbeam.  He also hands off his Scroll of Mass Heal to The Captain, and then starts stabbing.  He gets a crit, and also burns through the Mimic's last Legendary Resistance.
+
+At some point, Louie got stuck to the roof - the Doppelganger sets him free.  Louie falls toward the Mimic and winds up a massive hit - and completely misses, faceplanting on the floor.  The Mimic stomps him while he's on the ground, but The Captain has used the scroll by now so we're all at full HP. 
+
+Raymond takes offense at the Mimic stomping Louie, and slaughters it with Blackrazor.  Um - did we just drink all the souls of everyone in the Revallia?  Oops?  We check to see how many temp HP Raymond got - it was only in the 200s, so we figure it only drank the Mimic.  Phew!
+
+# A standoff
+
+We then have a tense conversation with Dop, the Doppelganger.  Eventually we decide to let him go free, on the understanding that if he ever steals something from us again, he's dead.  He leaves, having stolen Louie's Light Vision Goggles.  Next time we see him, we know what will happen.  We exit through a trap door that was under the Mimic.
+
+# Back to school
+
+We find ourselves in a room laid out like a classroom, complete with a large blackboard at the front.  There are 3 bodies in the room, one is dressed in academic robes, and the other two are dressed as revellers.  2 feral thralls are hunched over the bodies.
+
+3 more thralls are slumped over desks, dead.  There are 7 living thralls chained to desks - but the chains look weak.  The blackboard has the message "I will not describe Heckna's puns as a disgraceful misuse of language" written on it a hundred times.
+
+Also chained to one of the desks is an almost comatose Dr Stella.
+
+The feral thralls attack.
+
+# Stay tuned for more exciting adventures!
