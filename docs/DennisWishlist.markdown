@@ -33,7 +33,7 @@ Any of these are welcome at any time.
 
 All of these are cool, but its up to Ethan whether he wants this chaos.  Listed in order of goodness.
 
-* [Deck of Wonder]({{site.baseurl}}/DeckOfWonder.html) (Uncommon)
+* ~~[Deck of Wonder]({{site.baseurl}}/DeckOfWonder.html) (Uncommon)~~
 * [Deck of Several Things]({{site.baseurl}}/DeckOfSeveralThings.html) (Legendary)
 * [Deck of Many More Things]({{site.baseurl}}/DeckOfManyMoreThings.html) (Legendary)
 * [Deck of Many Things]({{site.baseurl}}/DeckOfManyThings.html) (Legendary)

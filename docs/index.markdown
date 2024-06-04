@@ -28,6 +28,7 @@ layout: default
 * **[Dragonhide Belt]({{site.baseurl}}/DragonhideBelt.html)**
 * **[Robe of Eyes]({{site.baseurl}}/RobeOfEyes.html)**
 * **[Throwing Cards]({{site.baseurl}}/ThrowingCards.html)**
+* **[Deck of Wonder]({{site.baseurl}}/DeckOfWonder.html)**
 
 **[Dennis' Wishlist]({{site.baseurl}}/DennisWishlist.html)**
 
