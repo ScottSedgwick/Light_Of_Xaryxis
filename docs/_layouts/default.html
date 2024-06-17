@@ -24,31 +24,53 @@ layout: base
     <div class="inner clearfix">
         <section id="main-content">
             <!-- This is where the game reports go. -->
-            {% assign posts = site.posts %} {%- if posts.size > 0 -%}
-            <ul class="post-list">
-                {%- assign date_format = site.minima.date_format | default: "%b
-                %-d, %Y" -%} {%- for post in posts -%}
-                <li>
-                    <span class="post-meta"
-                        >{{ post.date | date: date_format }}</span
-                    >
-                    <h3>
-                        <a
-                            class="post-link"
-                            href="{{ post.url | relative_url }}"
-                        >
-                            {{ post.title | escape }}
-                        </a>
-                    </h3>
-                    {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif
-                    -%}
-                </li>
+            {% assign posts = site.posts %} 
+            {%- if posts.size > 0 -%}
+            {%- assign date_format = site.minima.date_format | default: "%b%-d, %Y" -%}
+            <table>
+                <tr>
+                    <th>Date</th>
+                    <th>Title</th>
+                </tr>
+                {%- for post in posts -%}
+                <tr>
+                    <td>{{ post.date | date: date_format }}</td>
+                    <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+                </tr>
                 {%- endfor -%}
-            </ul>
+            </table>
             {%- endif -%}
         </section>
 
         <aside id="sidebar">
+            <h3>Dramatis Personae</h3>
+            <ul>
+                {% for item in site.data.characters %}
+                <li><b><a href="{{ item.link }}">{{ item.name }}</a></b> - <i>{{ item.player }}</i></li>
+                {% endfor %}
+            </ul>
+
+            <h3>Ethan's Homebrew</h3>
+            <ul>
+                {% for item in site.data.homebrew %}
+                <li><b><a href="{{ item.link }}">{{ item.name }}</a></b></li>
+                {% endfor %}
+            </ul>
+
+            <h3>Helper Sheets</h3>
+            <ul>
+                {% for item in site.data.helpersheets %}
+                <li><b><a href="{{ item.link }}">{{ item.name }}</a></b></li>
+                {% endfor %}
+            </ul>
+
+            <h3>Magic Items</h3>
+            <ul>
+                {% for item in site.data.magicitems %}
+                <li><b><a href="{{ item.link }}">{{ item.name }}</a></b> - <i>{{ item.owner }}</i></li>
+                {% endfor %}
+            </ul>
+
             <!-- Put cast list and useful shortcuts here -->
             {{ content }}
 
