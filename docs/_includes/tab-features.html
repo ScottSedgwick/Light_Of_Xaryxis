@@ -1,0 +1,52 @@
+<form class="charsheet">
+  <header class="charform">
+    <section class="charname">
+      <label for="charname">Character Name</label>
+      <input name="charname" value="{{ page.char.name }}" />
+    </section>
+    <section class="misc">
+      <ul>
+        <li>
+          <label for="age">Age</label>
+          <input name="age" value="{{ page.char.age }}" />
+        </li>
+        <li>
+          <label for="height">Height</label>
+          <input name="height" value="{{ page.char.height }}" />
+        </li>
+        <li>
+          <label for="weight">Weight</label>
+          <input name="weight" value="{{ page.char.weight }}" />
+        </li>
+        <li>
+          <label for="eyes">Eyes</label>
+          <input name="eyes" value="{{ page.char.eyes }}" />
+        </li>
+        <li>
+          <label for="skin">Skin</label>
+          <input name="skin" value="{{ page.char.skin }}" />
+        </li>
+        <li>
+          <label for="hair">Hair</label>
+          <input name="hair" value="{{page.char.hair }}" />
+        </li>
+      </ul>
+    </section>
+  </header>
+  <main>
+    <section>
+      <label for="faction">Faction</label>
+      <textarea name="faction" style="height: 3em;">{{ page.char.faction }}</textarea>
+      <label for="background">Background</label>
+      <textarea name="background" style="height: 50em">{{ page.char.background }}</textarea>
+    </section>
+    <section>
+      <label for="features">Features</label>
+      <textarea name="features" style="height: 56em">{{ page.char.features2 }}</textarea>
+    </section>
+    <section>
+      <label for="traits">Traits</label>
+      <textarea name="traits" style="height: 56em">{{ page.char.traits }}</textarea>
+    </section>
+  </main>
+</form>

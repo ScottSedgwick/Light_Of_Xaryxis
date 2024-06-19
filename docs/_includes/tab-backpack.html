@@ -1,0 +1,80 @@
+<form class="charsheet">
+    <header class="charform">
+      <section class="charname">
+        <label for="charname">Character Name</label>
+        <input name="charname" value="{{ page.char.name }}" />
+      </section>
+      <section class="misc">
+        <b>Backpacks can hold no more than 30 lbs of gear.</b><br/>
+        Note weight of items to not exceed the 30 lbs limit.<br/>
+        Note the quantity of items for quick reference.<br/>
+        Your treasure pouch is not part of your backpack so its weight will not count.<br/>
+      </section>
+    </header>
+    <main>
+      <section>
+        <section>
+            <label>Exterior</label>
+            <table>
+                <tr>
+                    <td>Bed Roll</td>
+                    <td>{{ page.char.backpack.bedroll }}</td>
+                </tr>
+                <tr>
+                    <td>Rope</td>
+                    <td>{{ page.char.backpack.rope }}</td>
+                </tr>
+                <tr>
+                    <td>Ammo</td>
+                    <td>{{ page.char.backpack.ammo }}</td>
+                </tr>
+                <tr>
+                    <td>Torches</td>
+                    <td>{{ page.char.backpack.torches }}</td>
+                </tr>
+            </table>
+        </section>
+        <label for="purse">Treasure Purse</label>
+        <table>
+            <tr>
+                <td>Copper</td>
+                <td>{{ page.char.backpack.copper }}</td>
+            </tr>
+            <tr>
+                <td>Silver</td>
+                <td>{{ page.char.backpack.silver }}</td>
+            </tr>
+            <tr>
+                <td>Electrum</td>
+                <td>{{ page.char.backpack.electrum }}</td>
+            </tr>
+            <tr>
+                <td>Gold</td>
+                <td>{{ page.char.backpack.gold }}</td>
+            </tr>
+            <tr>
+                <td>Platinum</td>
+                <td>{{ page.char.backpack.platinum }}</td>
+            </tr>
+        </table>
+        <label for="pocket1">Small Pocket 1</label>
+        <textarea name="pocket1" style="height: 7em">{{ page.char.backpack.pocket1 }}</textarea>
+        <label for="pocket2">Small Pocket 2</label>
+        <textarea name="pocket2" style="height: 7em">{{ page.char.backpack.pocket2 }}</textarea>
+        <label for="pocket3">Small Pocket 3</label>
+        <textarea name="pocket3" style="height: 7em">{{ page.char.backpack.pocket3 }}</textarea>
+        <label for="pocket4">Small Pocket 4</label>
+        <textarea name="pocket4" style="height: 7em">{{ page.char.backpack.pocket4 }}</textarea>
+      </section>
+      <section>
+        <label for="flap">Flap Pouch</label>
+        <textarea name="flap" style="height: 19em">{{ page.char.backpack.flap }}</textarea>
+        <label for="middle">Middle Pouch</label>
+        <textarea name="middle" style="height: 37em">{{ page.char.backpack.middle }}</textarea>
+      </section>
+      <section>
+        <label for="main">Main Pouch</label>
+        <textarea name="main" style="height: 59em">{{ page.char.backpack.main }}</textarea>
+      </section>
+    </main>
+</form>
