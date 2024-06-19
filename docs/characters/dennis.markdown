@@ -7,7 +7,9 @@ categories: jekyll update
 char:
     name: Dennis
     class: Monk (Mercy)
-    image: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Dennis-Dracula-Loughran-And-Bela-In-Hotel-Transylvania-2.jpg
+    image: 
+        uri: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Dennis-Dracula-Loughran-And-Bela-In-Hotel-Transylvania-2.jpg
+        size: 1000px
     level: 9
     race: Fairy Dhampir
     background: Bluetspur Orphan
