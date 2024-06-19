@@ -189,7 +189,7 @@ char:
     skin: Pale
     hair: Red
     faction: Team Strongth
-    background: |
+    fullbackground: |
       Dennis doesn't remember his childhood. He suspects he was a Monk of some Path, but fell afoul of a vampire. They fought to a draw - Dennis killed the vampire, but he died of the lingering curses. When he woke, his first thought was surprise. He was pretty sure he had died. Apart from that, the past was a blur. His Ki powers were warped, too - he's now much more attuned to blood magic, and he consumes Ki. He has given up on finding out who he was. Now he wanders the world, trying to help as much as he can, and do as little harm as he can manage. 
       WHAT ACTUALLY HAPPENED: Dennis was a trainee knight in the Court of the Unseelie. He was originally a Monk of the Way of Open Hand. He grew up an orphan, poor and downtrodden, but was never caught by the city guard. His ability to evade them became an embarrassment to the Court, and they sent a knight to capture Dennis. The knight was sufficiently impressed by the boy's skills that instead of punishing him, he sponsored his training.
     features2: |
