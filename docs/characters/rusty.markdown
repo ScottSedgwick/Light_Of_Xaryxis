@@ -1,155 +1,156 @@
 ---
 layout: character
-title:  "Dennis"
+title:  "Rusty"
 date:   2023-06-18 15:13:39 +1100
 categories: jekyll update
 
 char:
-    name: Dennis
-    class: Monk (Mercy)
+    name: Rusty
+    class: Artificer (Armourer)
     image: 
-        uri: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Dennis-Dracula-Loughran-And-Bela-In-Hotel-Transylvania-2.jpg
+        uri: https://static.wikia.nocookie.net/villains/images/f/fe/Rusty.png
         size: 1000px
     level: 9
-    race: Fairy Dhampir
-    background: Bluetspur Orphan
+    race: Flumph
+    background: Bluetspur Engineer
     player: Scott
     alignment: None
     xp: None
     str:
-        value: 13
-        bonus: 1
-        save: 5
+        value: 18
+        bonus: 4
+        save: 4
     dex:
-        value: 20
-        bonus: 5
-        save: 9
-    con:
-        value: 16
-        bonus: 3
-        save: 3
-    int:
-        value: 16
-        bonus: 3
-        save: 3
-    wis:
-        value: 21
-        bonus: 5
-        save: 9
-    cha:
         value: 12
         bonus: 1
         save: 1
+    con:
+        value: 16
+        bonus: 3
+        save: 7
+    int:
+        value: 21
+        bonus: 5
+        save: 9
+    wis:
+        value: 16
+        bonus: 3
+        save: 3
+    cha:
+        value: 17
+        bonus: 3
+        save: 3
     profbonus: 4
     skills:
         acrobatics:
-            bonus: 9
-            prof: true
-        animal:
-            bonus: 5
-            prof: false
-        arcana:
-            bonus: 8
-            prof: true
-        athletics:
             bonus: 1
             prof: false
-        deception:
-            bonus: 2
-            prof: false
-        history:
-            bonus: 4
-            prof: false
-        insight:
-            bonus: 9
-            prof: true
-        intimidation:
-            bonus: 2
-            prof: false
-        investigation:
-            bonus: 8
-            prof: true
-        medicine:
-            bonus: 10
-            prof: true
-        nature:
-            bonus: 8
-            prof: true
-        perception:
-            bonus: 10
-            prof: true
-        performance:
-            bonus: 2
-            prof: false
-        persuasion:
-            bonus: 2
-            prof: false
-        religion:
+        animal:
             bonus: 3
             prof: false
-        sleight:
-            bonus: 9
+        arcana:
+            bonus: 10
             prof: true
-        stealth:
-            bonus: 9
+        athletics:
+            bonus: 4
+            prof: false
+        deception:
+            bonus: 3
+            prof: false
+        history:
+            bonus: 10
             prof: true
-        survival:
+        insight:
+            bonus: 7
+            prof: true
+        intimidation:
+            bonus: 3
+            prof: false
+        investigation:
+            bonus: 14
+            prof: true
+        medicine:
+            bonus: 3
+            prof: false
+        nature:
             bonus: 5
             prof: false
+        perception:
+            bonus: 8
+            prof: true
+        performance:
+            bonus: 3
+            prof: false
+        persuasion:
+            bonus: 15+d8
+            prof: true
+        religion:
+            bonus: 5
+            prof: false
+        sleight:
+            bonus: 1
+            prof: false
+        stealth:
+            bonus: 2
+            prof: false
+        survival:
+            bonus: 7
+            prof: true
     passive: 
-        perception: 24
-        insight: 24
-        investigation: 22
+        perception: 17
+        insight: 17
+        investigation: 23
     otherprofs: |
-        Common, Thieves Cant, Vistani
-        Alchemist Supplies, Disguise Kit, Herbalism Kit, Thieves Tools, Poisoners Kit, CON save DC 17 (Dex), Simple Weapons, Light Martial Weapons (Scimitar, Short Sword) Carry: 175 lbs. Lift: 390 lbs.
-        Stances:
-        * Defensive (+1 AC)
-        * Offensive (+1d4 damage)
-        * Mobile (+10' movement)
-        * Precision (+WIS mod to hit)
-        * Counter (Opp. attacks have disadvantage)
-    ac: 22
-    initiative: 7
-    speed: 50
+        Artificer: all armour & shields, simple weapons, thieves tools, tinkers tools, smiths tools, carpenters tools, history, perception.
+        Int: jewelers tools, leatherworkers tools, survival, persuasion, expertise in investigation.
+        Engineer: alchemists tools, arcana, investigation, draconic.
+        Languages: Common, Draconic, Telepathy.
+    ac: 24
+    initiative: 9
+    speed: 35
     hp:
-        max: 95
-        current: 95
-        temp: 10
+        max: 94
+        current: 94
+        temp: 0
     hitdice:
         total: 9d8
         remaining: 9
     attacks: 
-        - name: Unarmed
+        - name: LL 1 (300)
+          bonus: +13
+          damage: 2d6+5 lightning
+        - name: LL 2 (300)
+          bonus: +13
+          damage: 1d6+5 lightning
+        - name: Mace
           bonus: +9
-          damage: 1d8+5 force
-        - name: Bite
-          bonus: +12
-          damage: 1d8+8 force
+          damage: 1d8+5 bludgeon
         - name: Dagger (20/60)
-          bonus: +9
-          damage: 1d8+5 force
-        - name: Silver Dagger (+1)
-          bonus: +10
-          damage: 1d8+6 force
-        - name: Card (1d4)
-          bonus: +9
-          damage: 2d6+5 slashing
-        - name: Spear (+1)
-          bonus: +10
-          damage: 1d8+6 force
+          bonus: +8
+          damage: 1d4+4 piercing
+        - name: Stench (15ft cone)
+          bonus: Dex Save
+          damage: DC 14, Poisoned
+        - name: Unarmed
+          bonus: +8
+          damage: 1d4+4 bludgeon
+        - name: Tendrils
+          bonus: +8
+          damage: 1d4+4b + 1d4 acid
     money:
         cp: 0
-        sp: 6
+        sp: 0
         ep: 0
-        gp: 538
+        gp: 5215
         pp: 0
     equipment: |
-        (A) Dragonhide Belt (+3). +3 DC to Ki abilities. 1/day, use action to regain MA die (1d8) Ki.
-        (A) Bracers of Defence
-        Non-magical +1 silver dagger
-        Deck of throwing cards
-        Poison cache spear +1
+        Armour (hardened, negate 1 crit/LR)
+        Shield (defiant, reaction negate 1 crit/SR)
+        Mace (precise +1, enhanced 1d8)
+        (A) All-purpose tool (+2): 1 new cantrip/day
+        (A) Amulet of the Plains
+        Scroll of Mass Heal (700 HP, 60ft R)
+        3 potions of superior healing (8d4+8)
     personality: |
         I ask a lot of questions.
         I bluntly say what other people are hinting at or hiding.

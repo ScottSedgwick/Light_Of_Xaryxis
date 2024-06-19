@@ -1,18 +1,18 @@
 - name: Bigby's Benificent Bracelet
   owner: The Captain
-  link: /Light_Of_Xaryxis/BigbysBracelet.html
+  link: /Light_Of_Xaryxis/magicitems/BigbysBracelet.html
 - name: Blackrazor
   owner: Raymond
-  link: /Light_Of_Xaryxis/Blackrazor.html
+  link: /Light_Of_Xaryxis/magicitems/Blackrazor.html
 - name: Dragonhide Belt
   owner: Dennis
-  link: /Light_Of_Xaryxis/DragonhideBelt.html
+  link: /Light_Of_Xaryxis/magicitems/DragonhideBelt.html
 - name: Robe of Eyes
   owner: Louie
-  link: /Light_Of_Xaryxis/RobeOfEyes.html
+  link: /Light_Of_Xaryxis/magicitems/RobeOfEyes.html
 - name: Throwing Cards
   owner: Dennis
-  link: /Light_Of_Xaryxis/ThrowingCards.html
+  link: /Light_Of_Xaryxis/magicitems/ThrowingCards.html
 - name: Deck of Wonder
   owner: Dennis
-  link: /Light_Of_Xaryxis/DeckOfWonder.html
+  link: /Light_Of_Xaryxis/magicitems/DeckOfWonder.html
