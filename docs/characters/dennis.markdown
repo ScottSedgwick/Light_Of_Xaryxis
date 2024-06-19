@@ -99,8 +99,7 @@ char:
         investigation: 22
     otherprofs: |
         Common, Thieves Cant, Vistani
-        Alchemist Supplies, Disguise Kit, Herbalism Kit, Thieves Tools, Poisoners Kit, CON save DC 17 (Dex), Simple Weapons, Light Martial Weapons (Scimitar, Short Sword)
-        Carry: 175 lbs. Lift: 390 lbs.
+        Alchemist Supplies, Disguise Kit, Herbalism Kit, Thieves Tools, Poisoners Kit, CON save DC 17 (Dex), Simple Weapons, Light Martial Weapons (Scimitar, Short Sword) Carry: 175 lbs. Lift: 390 lbs.
         Stances:
         * Defensive (+1 AC)
         * Offensive (+1d4 damage)
@@ -215,8 +214,8 @@ char:
       Hand of Healing (1): heal (MA + Wis Mod + 2) [A]
       Hand of Harm (1): +(MA + Wis mod + 2), poisoned until end of my next turn [A]
       Physicians Touch: Hand of Healing ends disease, blinded, deafened, paralyzed, poisoned, stunned
-      16 Int: Nature, Vistani, Alchemists tools
     traits: |
+      16 Int: Nature, Vistani, Alchemists tools
       Bluetspur: +2 to Init and saves vs fear & illusion
       Observant: +1 Wis, Lip Reading, +5 to Perc & Invst.
       Resilient (WIS): +1 Wis, Prof with Wis Saves

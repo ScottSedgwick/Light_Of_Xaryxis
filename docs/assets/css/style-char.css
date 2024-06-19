@@ -637,7 +637,7 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, serif;
+  font-family: Nunito, "Helvetica Neue", Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
@@ -1205,11 +1205,12 @@ textarea.equipment {
   form.charsheet main > section section.attributes div.scores ul li div.score input {
     text-align: center;
     font-size: 40px;
-    padding: 2px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     background: white;
+    border-radius: 10px;
   }
   form.charsheet main > section section.attributes div.scores ul li div.modifier {
-    margin-top: 3px;
+    margin-top: -5px;
   }
   form.charsheet main > section section.attributes div.scores ul li div.modifier input {
     background: white;
