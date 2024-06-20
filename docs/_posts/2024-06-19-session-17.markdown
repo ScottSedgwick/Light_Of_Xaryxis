@@ -1,0 +1,157 @@
+---
+layout: post
+title:  "Session Seventeen"
+date:   2024-06-19 15:13:39 +1100
+categories: jekyll update
+---
+# Retcon
+
+Before our very eyes, the 7 feral clowns are transformed into 3 feral clowns - 1 lightly chained to a desk, and 2 at the blackboards.  Stella remained where she was.
+
+# The (suddenly reduced) forces attack!
+
+Initiative is rolled - The Captain wins (because of course he does), Louie and Raymond go second.  Feral Clown 1 comes next, followed by Dennis.  Then Feral Clowns 2 & 3.  Stella sort of pops in where needed - she didn't do much.
+
+## Round 1
+
+The Captain moves forward, hides, and launches a ranged attack from there at the only thing in range - Feral Clown 3, which is at a desk.  The Captain does 30HP.
+
+Louie and Raymond leap into action (literally) and put a beatdown on Feral Clown 2, doing 29HP then 18HP.
+
+Feral Clown 1 closes with Raymond and critical hits with a Giggle Stab, doing 25HP. Raymond makes his WIS save, but the critical deafens him for 1 turn. The clown then smacks Raymond in the face with a Lemon Meringue pie! It does 10 bludgeoning damage, and requires a CHA save - which Raymond fails, so he falls on his back laughing hysterically. Louie is trapped underneath. The clown finishes up with a Mirthful Slice, doing 11 slashing.
+
+Dennis flies into action, getting to the only clown in range - Feral Clown 3.  He stabs once (the clown makes his CON save vs paralysis), twice (clown saves again) and then bites!  This time the clown fails his CON save and is stunned. 37 damage total.
+
+Feral Clown 2 swings at Raymond and misses, but then hits with the pie. He also hits with a Mirthful Slice for 8HP.
+
+Dr Stella mends and flicks a nail, but misses. Dennis gives her inspiration, so it hits for 7 piercing.
+
+## Round 2
+
+The Captain hits Feral Clown #3 for 28HP. Then he hides.
+
+Raymond stands up, Louie hits Feral Clown 1, then Raymond hits Feral Clown 2.
+
+Feral Clown #1 critical hits Raymond for 28 piercing, who makes his WIS save. The critical takes out Raymonds right eye. The pie hits for 16 bludgeoning. 18 for CHA save.
+
+Dennis paralyzes Feral Clown 1 & Feral Clown 2 and bites the shit out Feral Clown 2.
+
+A big dodecahedral ooze enters the fight.  It captures The Captain and Dennis and does a bunch of damage.  Then it hits Raymond.  It's entry also killed Feral Clown 3.
+
+Stella injects Raymond with Enlarge.
+
+## Round 3
+
+The Captain tries to escape the ooze and fails. The only way to hit it is to pick a number between 1 & 12, then roll it on d12.  This is mathematically hard.
+
+Raymond hits the dodecahedron on face 7 (nice!), and face 7 disappears. Then he hits again on face 6, which disappears.  Raymond MVP again! Louie tries to hit twice, but misses.
+
+The ooze hits back.
+
+Dennis is inside the ooze, and restrained, and taking acid damage.  He asks for clarification from Ethan how trying to hit the ooze works, with the disadvantage he has to hit, and the weird "to hit" process.  Ethan, not thinking, says "You name your face, then roll 2d12 and take the lowest."  Dennis, not being a fool, says "I'm going for face #1" and rolls 2d12, one of which is a one.  Nice!  "Now I'm going for face #2." Hits again!  This is like advantage but with a smaller dice! Dennis then runs away, temporarily forgetting about opportunity attacks, and takes big acid damage.
+
+The feral clowns are either dead or paralyzed, so no turn for them.
+
+## Round 4
+
+The Captain stabs his way out of the ooze and hides in the corner.  Around this time we find that while you can only call a face that still exists, if you roll a face which does not, it counts as a hit.  Progress accelerates.
+
+Louie uses ranged attacks and does some damage.
+
+Feral Clown 1 teleports up to Raymond and does some damage.
+
+Dennis cards the crap out of, in order, the Dodecahedron (which dies), Feral Clown 2 (which dies) and then Feral Clown 1 (which survives, but the last critical hit gave Louie and Raymond an opportunity attack which kills it).
+
+End combat.
+
+# A hard conversation
+
+Louie then spends some time telling Dr Stella about her sister's death.  Heckna steals the door. Stella says she knows the way out but can't remember right now.
+
+We try opening cupboards.  The downstairs ones have nothing, but when Raymond licks the first upstairs ones, it turns into a plushie of a nautiloid. The next wardrobe turns into a small garden snake. The third wardrobe turns into a pool of bleach.
+We figure out how to teleport from S to N blackboards.  Then the S & N blackboards form a rainbow - The Captain rides the rainbow and explodes into pixie dust. He's *obviously* dead, but Louie notes that Dennis disappeared and didn't die, so we should wait a few minutes to see if he reappears.
+
+Dennis tries making some dim light by breaking a lamp.  I think Ethan is tired of Shadow Step, because a shade came out and attacked Dennis, draining 2 STR.  Dennis struck back and killed it?  It disappeared, anyhow.
+
+Then lots more came.  Fine! We got into the rainbow. Dennis turns into ash. Blackrazor wants a shadow before they go, but there's 17 of them.  They kill one, then get into the rainbow. Raymond turns into 50,000,000 tadpoles. Louie turns into a lizard-folk.
+
+# Only the house wins
+
+## The Captain breezes through
+
+We are in a gaming room. Feetloaf is there.  The Captain is already playing something - Lute Champion. The Captain wins by singing All-Star.
+
+## Now it's PVP
+
+We look at Tekkis.  There are 2 sides - Vecna & Tiamat. On each side there are 6 buttons.
+
+## Tiamat's attacks: 
+### Standard
+1. Dragon Claw strike. Tiamat slashes with her draconic claws, launching opponents into the air. (STR)
+2. Tail Whip. A sweeping tail attack that knocks foes off their feet. (DEX)
+3. Bite Combo. A quick series of biting attacks, ending with a fiery breath blast. (CON)
+
+### Special
+4. Five headed fury. Tiamat's heads breathe different elements - fire, ice, acid, lightning and poison. She can unleash a devastating combo by chaining these breath attacks together. (CHA)
+5. Chromatic breath. A ranged attack where Tiamat breathes a cone of multi-colored energy. (WIS)
+6. Winds of Wrath Tiamat flaps her wings, creating a gust of wind that pushes opponents away. (INT)
+
+## Vecna's attacks: 
+### Standard
+1. Eye Gouge. Vecna's bony hand jabs opponents in the eyes. (DEX)
+2. Forbidden Tome Slam. He smashes an ancient book into foes. (STR)
+3. Necrotic Grasp. A touch attack that drains life force. (CON)
+
+### Special
+4. Hand of Vecna. Vecna's severed hand materializes, grabbing opponents and draining their strength. (INT)
+5. Arcane Glyphs. He summons magical symbols on the ground, creating traps or launching projectiles. (WIS)
+6. Whispers of Madness. Vecna whispers dark secrets, confusing and disorienting enemies. (CHA)
+
+Str beats Dex. Dex beats Con. Con beats Int. Int beats Cha. Cha beats Wis. Wis beats Str. If none of that applies, you make contested checks for the statistic your attack uses to determine the winner. The first player to 3 wins, wins.
+
+Rounds:
+1. 5 headed fury vs Eye gouge. Louie wins first round.  Dennis gets vulnerability to acid.
+2. Dragon Claw vs Necrotic Grasp. Dennis wins this round. Louie gets reduction to STR by 3.
+3. 5 headed fury vs Whispers of Madness. Louie wins. Dennis gets vulnerability to fire.
+4. 5 headed fury vs Arcane Glyphs. Louie auto-wins. Dennis gets vulnerability to lightning.
+
+Louie wins the game.  He comes out with a STR reduction, but because he's the winner, he gets one problem removed, and it's the only one - so Louie is fine.  Dennis comes out with vulnerability to acid, fire and lightning.
+
+## This game is rigged
+
+Every player has to win one game to be allowed to leave, so Dennis has to enter the drinking game.  The rules are, there are 10 rounds of drinks.  Each drink has a different effect, which you suffer whether you fail or not.  Each requires a CON save.  If you fail 3 saves, you're out.  Last man standing wins.
+
+His opponents are a Minotaur (who we presume has inhuman constitution) and Jaziran, who is immune to poison.  Dennis has CON saves, which he is not proficient in.
+
+### Drinks
+1. Everyone passes and gains the ability to levitates for an hour.
+2. The Minotaur fails, but Jaziran and Dennis succeed. All colors look silver to us, and our depth perception is altered. It causes everything to be seen through a disorienting haze. We all lose passive perception for 4 hours.
+3. The Minotaur fails again (how?), Jaziran passes, but Dennis fails. We all gain a venomous bite attack - +2d6 poison damage for 3 hours. Dennis also has to hiccup  uncontrollably for 1 hour.
+4. The Minotaur fails and is out of the game. Jaziran passes, Dennis fails. Drinkers appearance and personality shift through the 4 seasons for 4 seconds.
+5. Jaziran and Dennis both succeed. We turn into a burmese mountain dogs for 6 hours. During this time, Louie notices that Jaziran is taking an unhealthy interest in his Nautiloid plushie, and he sign-languages that he will give Jaziran the plushie if he throws the match.
+6. Jaziran succeeds but fails on a nat 1, Dennis fails but uses Hand of Heal to auto-pass (he's only allowed to do this once). Dennis has to spell pneumonoultramicroscopicsilicovolcanoconiosis, and to Ethan's astonishment, succeeds. For this spectacular success, Dennis gets 3 nat 20s to use whenever he wants. Jaziran indicates that he will not throw the match unless Louie gives him the plushie right now, which he does.  Jaziran extends his aura to give Dennis +5 on saves.
+7. Dennis succeeds with a nat 20, that he actually rolled. Jaziran fails, deliberately. We both get a ghostly duplicate of ourselves, which mimics our actions for 2 hours.
+8. Dennis passes, Jaziran fails with a nat 1. There is no effect from this drink.
+
+Jaziran gives Dennis a Manual of Bodily Health.
+
+As a winner, Dennis gets to remove one condition. He chooses to remove vulnerability to acid.  This leaves Dennis with the following conditions:
+
+* -2 Strength
+* Vulnerability to fire for an undisclosed amount of time.
+* Vulnerability to lightning for an undisclosed amount of time.
+* The ability to levitate for 1 hour.
+* No passive perception for 4 hours.
+* An additional 2d6 poison damage on bite attacks for 3 hours.
+* Uncontrollable hiccuping for 1 hour.
+* He is a Burmese Mountain Dog for 6 hours.
+* He has 3 natural 20s to use.
+* He has a ghostly duplicate that will mirror his actions for 2 hours.
+
+# We're all winners now!
+
+A door appears randomly in the arcade.  We all leave and find ourselves in the lobby. Us'eless is still there. He appears to be frantically searching for something - no idea what. The main doors at the end are now cracked, rotting and hanging off their hinges.  There is a chill wind blowing through them, and Heckna's voice rings out: "Here you are, loitering around my lobby like lost little puppies. Have you enjoyed my fun house? Personal private audience. Teamwork, tenacity, ability to push all my buttons. I see a lot of myself in you."  Or something - I wasn't listening.
+
+We walk through the door. Darkness swirls around us. We smell tea. The darkness lifts, revealing a forest - dark, dense, full or trees. In the center of the glade is a small purple tent.  There are lavish rooms inside with a merry fire crackling.  Heckna is there, wearing a red satin smoking jacket, and drinking whisky(?) from a glass. Sitting on OUR FUCKING CHAIR!
+
+# Give us our chair back!
