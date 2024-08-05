@@ -669,7 +669,10 @@ header {
     padding-bottom: 40px;
     font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial,
         serif;
-    background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+    background-color: #2e7bcf;
+    background-image: url(../images/header-bg-purple.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     border-bottom: solid 1px #275da1;
 }
 
