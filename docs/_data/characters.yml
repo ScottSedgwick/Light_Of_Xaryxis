@@ -1,15 +1,15 @@
 - name: The Dungeon Master
   player: Ethan
-  link: https://www.the-unknown-movies.com/unknownmovies/pictures/dungeonmaster.jpg
+  link: /Light_Of_Xaryxis/assets/images/dungeonmaster.jpg
 - name: The Captain
   player: Dan
-  link: https://m.media-amazon.com/images/I/81UBDps8YpL._AC_UF894,1000_QL80_.jpg
+  link: /Light_Of_Xaryxis/assets/images/TheCaptain.jpg
 - name: Dennis
   player: Scott
   link: /Light_Of_Xaryxis/characters/dennis.html
 - name: Louie
   player: Zoe
-  link: https://static.wikia.nocookie.net/ozwikia/images/b/b7/Frogman_Return_to_Oz.jpg
+  link: /Light_Of_Xaryxis/assets/images/Louie.jpeg
 - name: Rusty
   player: Scott
   link: /Light_Of_Xaryxis/characters/rusty.html
@@ -24,4 +24,4 @@
   link: /Light_Of_Xaryxis/characters/minion.html
 - name: Tilly, Billy, Lily, Milly, Willy
   player: Kirsty
-  link: https://m.media-amazon.com/images/I/71DdFlSPK0L._AC_SL1500_.jpg
+  link: /Light_Of_Xaryxis/assets/images/Milly.jpg
