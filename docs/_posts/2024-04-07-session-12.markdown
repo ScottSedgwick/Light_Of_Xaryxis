@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Twelve"
+title:  "Session Twelve - Slaadi and Modrons, Part 1"
 date:   2024-04-07 15:13:39 +1100
 categories: jekyll update
 ---

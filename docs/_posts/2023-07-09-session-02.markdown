@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Two"
+title:  "Session Two - The Clockwork Beholder"
 date:   2023-07-09 15:13:39 +1100
 categories: jekyll update
 ---

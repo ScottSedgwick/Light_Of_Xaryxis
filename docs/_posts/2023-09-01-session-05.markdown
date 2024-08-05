@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Five"
+title:  "Session Five - No Blog"
 date:   2023-09-01 15:13:39 +1100
 categories: jekyll update
 ---

@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Session Nineteen - Bluetspur"
+date:   2024-08-04 15:13:39 +1100
+categories: jekyll update
+---
+# Dennis triumphant
+
+The train hurtles through a purple sky toward the fleshy purple ground earth, scabbed with black patches of rot. Twisted purple mountains scratch the sky.  Rusty grabs as many people as he can and plane shifts back into the ship.  The train ploughs into the ground.  Everyone blacks out.
+
+We wake an unknown amount of time later, and Dennis' mind is overwhelmed with bloodlust, and he attacks the only living creatures in sight - the other characters!  PVP battle royale!
+
+OK, so Dennis' initiative sucks.  The Captain _rules_ with 30, Louie and Raymond come in next on 22, and Dennis is last with 14.  Give me your best shot, Captain!  Oh, he missed.  Pity.  Louie tries his luck!  Oh, he missed too.  Raymond, in what we have come to expect, is MVP and actually manages to hit Dennis - but Dennis redirects the damage back!  Heh.  Dennis bites Raymond and stuns him.  He decides the big frog doesn't taste very nice and looks for the tastiest morsel.  Sorry, Captain.  Dennis bites the Captain and drops him.  Start your Death Saves, buddy.
+
+Next round, the Captain is down, but makes his death save.  Raymond bites Dennis and tries to swallow him but fails on the swallow.  Louie hits Dennis twice with his Morningstar and applies a bunch of poison conditions.  Dennis then takes a swing at Louie and hits, but resists an incoming compulsion well enough to temporarily regain sanity and uses Hand of Heal on The Captain, but it doesn't appear to work.
+
+The Captain, once again, misses his turn.  Louie stacks on more poisoned conditions, finally disabling Dennis (because he didn't understand how his poison removal works).  Dennis misses this turn.
+
+The Captain finally manages to stick Dennis with one of his own daggers and poisons him with Good Times.  Oh!  It was all a dream.
+
+We all come to in a room in an inn.  The Captain, who regained consciousness when Dennis "killed" him, had been poking Dennis with his won daggers to try and break him out of his fugue state. Louie and Raymond woke up when Dennis was broken out.  Esmerelda was there, helping us all recover.  We all get the benefits of a long rest, the only exception being a bit of damage to Dennis from dagger pokes, and one level of exhaustion from resisting the mental compulsion.
+
+# Back to the very start
+
+Esmerelda reveals that we are, somehow, in Phandalin.  Out of character, it seems pretty obvious that this is a Inception situation, but none of the characters have seen that movie, so we accept it at face value.  What then follows is a bunch of exposition, which I will summarize here:
+
+* Gundrin Rockseeker was the one that found our unconscious bodies and brought us back to the Inn, so we owe him.
+* Gundrin Rockseeker has subsequently been kidnapped by goblins, but nobody knows where they are.
+* There are rumours of a Banshee called Agatha who will answer questions, if asked.
+* Several people want to talk to us: The Toymaker, Locke, Dr Stella and the mayor of Phandalin, and Harbin Wester - who we immedately re-christened Harvey Weinstein.
+
+We leave our room and find Dr Stella in the main room of the inn, tending to some very sick Revallians.  Apparently, the collapse of the Revallia and death of Heckna caused all of their snozzlers to die, and they are now wasting away.  They have a tuberculosis-like cough that sprays glitter everywhere.  Dr Stella needs fairy floss to craft a cure.  We should be able to get some from the fairies, but the fey can be troubling to deal with.
+
+We leave the Inn and immediately run into Harvey.  He tells us they need help repairing the bridge out of town.  Rusty pops out of the ship and says he'll fix it if someone comes to watch out for him while he works.  Esmerelda agrees to act as chaperone, and those two head off.
+
+The Toymaker asks us to look for Gehry, who ran off after the crash.
+
+Locke asks us to look for Pip, a child of the candy corn, who wandered off south-east of town, and never came back.
+
+# Our quest list
+
+1. Fix the bridge.  Rusty and Esmerelda are on that.
+2. Rescue Gundrin Rockseeker from the goblins.
+3. Find Gehry and bring him back to town.
+4. Find Pip and bring him back to town.
+5. Get some fairy floss for Dr Stella to cure the Revallians.
+
+To help with any exposition we may have missed, there is a Banshee called Agatha somewhere that can answer questions for us.
+
+# What to do, what to do.
+
+Rusty has left, taking with him the brain cell shared between him, Louie, Raymond and Dennis.  As a result, The Captain steps up to a leadership position.  Honestly, with a name like "The Captain", you'd think he'd be more comfortable taking charge.  In any case, he decides we are going to find Pip first, and we set off.
+
+With very little effort, we find a cave that looks suspicious.  Unfortunately it is too small for Raymond to get in, so he posts up outside and blocks the entrance with his butt.  Inside we find the floor is covered with what we are told are frog eggs, but nobody was fooled.  Deep in the cave, we find Pip, obviously mind controlled, and with some sort of face-hugger with a green eye attached to his forehead.  Pip refuses to leave, because he has to stay to tend to his new friends.  Well, that isn't going to fly, young man!  A bunch more face-huggers (apparently called Echelon) appear!
+
+Initiative!  Louie is first, then the Echelon, then Raymond, then Dennis, then The Captain.  We don't know this yet, but there is another group of face-huggers outside facing off against Raymond - they go last.
+
+Louie knows what he must do.  *Abjure the Extraplanar!*  Louie has had this since 3rd level, but never got a chance to use it until now.  Unfortunately, it also affects Dennis - but if you're not prepared to rain fire on your own position, you're not prepared to win!  The face-huggers (except for the one on Pip) all fail, and have to flee.  Dennis, thankfully, makes his save.  Louie then touches Pip and poisons him to make him afraid of his allies, but he takes psychic damage from touching an Echelon.  The Captain also takes damage, because he's holding Pip.
+
+The Echelon then go, but they all run away as far as they can (into the corners) and then take the Dodge action.
+
+Outside, Raymond takes a swing at one of the Echelon and hits it twice.  The Echelon is astonished that nothing happens to Raymond as a result.  Raymond crits one of the Echelon, but doesn't manage to drop any of them.
+
+Back inside, Dennis manages to spear the Echelon on Pip without spearing Pip, and poisons it.  Then he makes his strength check to rip it off and smacks it into a wall.  Dennis takes some Psychic damage, and Pip comes to his senses.  Dennis then switches to throwing cards, killing the Echelon.  In its death throes, it causes a bunch of eggs to hatch, releasing mini-Echelons from their eggs.  Dennis then grabs Louie by his armour handle and runs to the exit - but it's blocked by Raymond, so we stop at the door.  Dennis turns sround and flurry of blows the Echelon by the door to death.  More mini-Echelon are released.
+
+The Captain gives Oriana a mini-bow, and gives Pip a had crossbow, and then starts moving to the exit, unloading a storm of arraws as he goes.  Between them they _almost_ kill one, and the party is now posted up by the exit.  The one The Captain attacked is released from fear by taking damage and tries to latch on to The Captain, but misses.  One of the Echelon outside the cave _does_ manage to attach itself to Raymond.
+
+The mini-echelon now act and do a fair chunk of damage to The Captain.
+
+Louie's turn again, and for the second time, he elects to rain fire on his own position, casting Moonbeam.  The single wounded Echelon that is free to attack started his turn inside the Moonbeam and takes damage.  Raymond turns around and hits Louie with Blackrazor, for 28 and 11 HP, but Louie makes his concentration checks both times.  Raymond then turns back around and re-blocks the exist with his butt. Dennis takes half damage from the Moonbeam, cards 7 minis to death, then turns around and stuns Raymond, causing his to slump forward.  There's enough gap for us to squeeze out, and Dennis flies out and straight up 55'.
+
+The Captain also squeezes out the gap and moves his full move away, while shooting Raymond.  Orianna, showing better judgement and skill, shoots Raymonds Echelon.  The two free Echelon outside choose to chase Dennis and The Captain, but neither of them can go fast enough to catch us, so they simply dashed into melee range and ended their turns there.
+
+Back inside, the only echelon in range takes a swing at Louie, and while it doesn't _hit_ him, does touch him, so poisons itself.  Louie has a go back at it and kills it, releasing more mini-Echelon - but they are considered to have entered the Moonbeam effect, and instantly die.  Louie then squeezes out, climbs on Raymond's back, and levers the Echelon off his head.  Raymond, in a fit of rage, _massacres_ the Echelon that had been dominating him.  As it does not die on top of a pile of eggs, no mini-Echelon are released.
+
+55 feet up, Dennis disengages, moves 5' back, and unloads with his cards on the Echelon up there, killing it.  Then he moves over to 55' above The Captain and fires his remaining cards at the Echelon chasing the Captain.  The Captain disengages, moves a short distance, and fires at his pursuer, killing it - much to his chagrin, because he was looking forward to kiting it around the clearing, chipping away at it with arrows while it could never quite catch up.
+
+Louie then methodically moved the Moonbeam around the cave, killing all the eggs and remaining mini-Echelon, before killing the last Echelon which was still crammed into a corner, terrified.  The Captain makes a heroic Perception check, and spots the last egg - nestled in Pip's ear.  He kills it, and that, hopefully, is the end of the Echelon.
+
+We head back to town.
+
+# Finis.

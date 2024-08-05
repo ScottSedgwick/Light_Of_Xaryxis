@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Sixteen"
+title:  "Session Sixteen - Return of that f*cking Mimic"
 date:   2024-06-02 15:13:39 +1100
 categories: jekyll update
 ---

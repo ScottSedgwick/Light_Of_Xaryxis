@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Six"
+title:  "Session Six - Find the Stick"
 date:   2023-09-24 15:13:39 +1100
 categories: jekyll update
 ---

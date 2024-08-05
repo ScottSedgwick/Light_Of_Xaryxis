@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Session Eighteen"
-date:   2024-06-19 15:13:39 +1100
+title:  "Session Eighteen - The Death of a Darklord"
+date:   2024-07-21 15:13:39 +1100
 categories: jekyll update
 ---
 # Blood for the Blood God!

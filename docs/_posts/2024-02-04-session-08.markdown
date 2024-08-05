@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Session Eight"
+title:  "Session Eight - Lose the Chair"
 date:   2024-02-04 15:13:39 +1100
 categories: jekyll update
 ---
