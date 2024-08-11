@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Monsters"
+date:   2023-06-01 15:13:39 +1100
+categories: jekyll update
+---
+# Monsters we have killed
+
+_(and conceivably could have harvested parts from)_
+
+## Mordentshire
+
+* Doom Bear
+* Fog Bog Dogs
+* Wendigo
+* Helmed Horror (we should have the whole thing somewhere)
+* Chuul
+
+## Hara'kir
+
+### Monsters
+
+* Shield Guardian (again, we should have the whole thing somewhere)
+* Neophrons
+* Nagpa
+* Boneclaw
+* Yaun'ti
+* Bright Naga
+* Intellect Devourer
+* Mimic (Chest)
+
+### Stuff
+ 
+* 500gp crafting components
+* Mizzium Plate
+* Amulet of Proof against Detection (Dennis has it)
+* Nagpa Staff
+* Nagpa Spellbook
+* 10 suits of Scale Mail
+* 20 Scimitars
+* 20 Longbows
+* 20 Shortbows
+* 50 Quivers with 20 arrows each
+* Magic shield that shouts your words
+* Scrolls: Knock, Dimension Door, Mass Heal, Greater Invisibility, Regeneration, Teleport, Clone
+* Scroll: ispel Magic
+* 2 watches (one gold, one platinum)
+* Jewelery
+
+## Cyre 1313
+
+### Monsters
+
+* 8 blood oozes
+* 3 coldfire oozes
+* A whole clockwork beholder
+* Mostly living teddy bear
+* Dryads
+* Popcorn
+* 2 zombie hands
+* One monkey finger
+* 3 soloists (sirens?)
+* 2 vampires
+* Cicero
+* Antlion thing
+* Werespiders
+* Lumiere
+* Arachne
+* Grey Slaad
+* Green Slaad
+* Ygorl
+* Dirk 
+* The Countess
+* Sophie
+* Pinky
+* Candelabra Guards
+* Vampires
+* Big mimic
+* Heckna
+
+### Stuff
+
+* 2 rings of spell storing
+* Cicero's baton
+* Sophie's lab stuff
+
+## Bluetspur
+
+### Monsters
+
+* Echelon
+* Echelon eggs
