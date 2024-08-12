@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Prequel Three - The Worlds on Fire"
+date:   2023-06-18 15:13:39 +1100
+categories: jekyll update
+---
+# OH&S should have condemned this barn years ago
+
+Our heroes begin the adventure standing next to Oswald's body inside a burning barn.  Rusty starts dragging Oswald's body outside, using judicious applications of Control FLames to keep the area around him reasonably safe, but it's slow going because of all the fallen beams.  He sends Minion to open the doors to the pens to save the trapped livestock - chickens, oxen and truffle pigs.  He gets the chicken pens opened in the first round.  He leaves Louie and Raymond with the - he thought - simple task of _just getting themselves out_.  Once more, he overestimates their abilities.
+
+Louie and Raymond start blindly stumbling through the smoke, walking into a burning beam - Raymond took the damage.  Then they got run over by fleeing chickens, taking more damage.  Louie opens up his portable hole and puts Raymond inside to protect him, and a bunch of chickens fall in while he's doing that.  Then he manages to get himself pinned under a falling beam, while at the same time failing a bunch of saves against smoke inhalation, dropping his movement rate to about half.
+
+Rusty gets Oswald's body to the barn door, and checks the door to see if it is locked from the outside - it is.  Then he heads back in to the inferno to help Louie.  Minion lets the oxen out, who bump up against the log on top of Louie but do not dislodge it.  Then Minion also goes over to Louie to help.  Louie, with our assistance, manages to get the log off himself and heads over to the door.  Rusty turns to go to the door, but is then trapped himself under another burning beam, which he cannot dislodge. He then pulls out a never before seen ability that he has had since level 1 from the Fey Touched feat - and Misty Steps out from under the beam to the door.
+
+We fail to get the door open, then fail to avoid the oxen who also want to get out the door.  They succeed on getting the door open, though.  We're outside!
+
+# Eyes in the night
+
+We see a pair of yellow eyes in the darkness, which run away.  We toss Oswald into the hole and drink some healing potions, then give chase.  Our quarry is too fast, though, and we cannot catch it.  We return to the inn to find a crowd of townsfolk crowding the square.  An owl lands in the middle of the crowd carrying a letter filled with exposition, and a handy person - Henrietta - steps forward to read it to us.  Because Louie can't read?  I don't know.
+
+The letter says "Send them to me", whereupon Henrietta lists off a heap of directions about how to get to Sybil that she never bothered to tell us before:
+
+1. Go to the edge of the wood (it doesn't matter where).
+2. Whisper "Freedom on the edge of the wood, a pale star, guided by the spirit who walks freely."
+3. Walk forward until the trees block out the sun.
+4. Close your eyes and keep walking until you see her doorstep.
+5. Do not go in unless invited.
+6. To leave, do everything in reverse.
+
+We then rest for the night in the inn, as it is apparently impossible to reach Sybil's cottage at night (see step 3).  We search Oswald's body, which has 30gp and a letter:
+
+"Oswald my servant, you are to find Father Daragah and inform him to pay his taxes or else we will reveal his secret. Additionally, you are to discern any knowledge regarding Sir Thames. Yours eternally, W.G."
+
+# The idiot in the woods
+
+In the morning we set off for Sybil's house, and by following the instructions we get there without incident. It is a tall manor house, grayed with age, lightly covered in vines.  The door has a knocker in the shape of a lion, which we greet.  It looks down.  We look down.  There is a package there, addressed to Rusty, Louie and Raymond.  That is obviously exclusionist against created life forms, as Minion is right there, and we stand up for the poor little guy.  People can be so thoughtless.  The addressing changes to Raymond and Minion, which just underlines that they were unthinkingly prejudiced initially, and know they are being deliberately offensive.  I cannot wait until we get out of this podunk town.  It has some nice people, but there are one hell of a lot of assholes.
+
+Minion opens the box, and a letter floats out.  It unfolds on its own, then talks to us, which raises the question of why put a letter in a parcel, and why put a voicemail in a letter when there is a talking door-knocker _right there_.  Sybil's intelligence lowers in my estimation, chasing her basic decency to see which can reach the bottom first.  The letter says "Hello lovelies. I've been interested in you for a while now, and I want to help. I don't know exactly what you will need.  Here is a key - look it up in Henrietta's library.  Don't forget Sir Thames sword.  Make sure you figure it out by midnight or everyone dies.  Love & kisses. Toodleoo." Inside the parcel there is a key and a map of Henrietta's library.
+
+OK, so my low impression of her intelligence takes the lead - or at least her estimation of how easy it is to see through her bullshit. If she doesn't know what we need, how does she know exactly where to find it, and have a key to get there?  How does she know that everything needs to be wrapped up by midnight?  How does she know everyone will die?  And what does she mean by everyone? _Everyone_ everyone?  In the town?  The forest?  Mordentshire?  The multiverse?  Sybil needs to learn better expression, and a course in basic logic would probably help too.
+
+We head back.  Once again, Sybil's poor understanding of logic and clarity are brought into stark relief.  We close our eyes and walk backward from the doorstep until we feel the sunlight, then open our eyes and keep going backward until we reach the edge of the forest, at which point we shout that stupid phrase backwards, because that's what the instructions say.  Then we appear back at Sybil's house.  Several variations of this follow, where we do different variations of "everything in reverse" including opening Sybil's house door to leave, because that's the reverse of one of the instructions.  Opening her house unleashes a slowly growing sphere of annihilation on the world, and frankly I hope it gets Sybil first.  Now I'm not sure if her actions are motivated by cruelty or stupidity - she can obviously control this, and has put us on a time limit (remember, everyone dies at midnight) but is perfectly happy to waste several hours, several times, just to let us depart her forest.  Moron.
+
+Once we are free, we go to Henrietta's house and she's being stupid too, which strongly hints that she may be Sybil in disguise.  It's hard to imagine that one location could have two sociopathic idiots of that magnitude close together - they would have killed each other by now.  Anyway, we get several buckets of exposition from the library, carefully marked by X's.  Didn't know exactly what we needed, my metal arse.  Sybil obviously knows exactly what has been happening, is happening, and will happen, and exercises frightening control over the forest that these werewolves travel through every day.  She could _easily_ have trapped them, so everything that has happened is on her head.
+
+# Chicken fight!
+
+We get Haladriel to, and I quote, "make as much wolfsbane potion as you can and take it to the church".  This becomes important later.  Then Minion flies up high to see if he can finally spot an Oak tree - and lo and behold, there's one right by Sir Thames house.  Fucking Sybil.
+
+Then we get Raymond out of the hole to go there, and the bloody thing is now full of abyssal chickens, because that's what happens to chickens in portable holes, apparently.  The subsequent fight goes swimmingly, from Rusty's perspective.  He was kiting them backwards, killing 2 per round with his lightning launchers.  Louie then goes and _dies_ and has to be hauled up a tree by Raymond, using an ability that (it turns out later) he doesn't even _have_.  Minion tries to get to him to feed him a potion, but the chickens can jump 30' straight up, and Minion goes down. Rusty has to start swinging around to get in a position to heal Louie, which allows the chickens to catch up a bit and hit him with an opportunity attack.  Louie then gets himself out of trouble with a natural 20 on a death save, allowing Rusty to cleanly finish off the chickens.  
+
+# Silver swords really do matter
+
+We go and dig up the sword, and we end up giving it to Louie, because god knows he needs _something_. It's a Silver Moon-touched Longsword +1 that casts bright light a 15' radius, and dim light in a further 15'.  Discussing the nature of the sword leads to a discussion about the "extra" abilities that Lycanthropes have in Ethan's world.  Basically, you need silver.  Nothing else will do.  Seriously - you can slaughter a lycanthrope with a silver fork, while a Meteor Swarm will bounce off them without doing any damage, unless you somehow manage to integrate silver into it somewhere.  So Rusty has a desperately cobble together stuff on the way back to the church to boost the party members.  We take 3 pieces of silver cutlery from Sir Thames house, and silver Rusty's mace and boost his lightning launcher for 6 silver-enhanced shots.  Of Lightning.
+
+He also crafts the silver arrowhead that Eryn's dad left for her into a tooth cap for Raymond.  All while running back to the church.
+
+# It's always the cult leader
+
+We get back to the church just before the doors close and self-lock.  Nothing suspicious about that.  We spend some time making sure that everyone in the town is there, and they are, waiting for the first course of food to show up.  Which, of course, raises the question of who is cooking?  Oh, and Father Daragar is apparently in his sanctum, sanctuming.  We grab all the potions of Wolfsbane Haladriel managed to cook up - only one.  What the f, Haladriel?  You had ingredients for _at least_ two, and this is supposed to be what you are good at!
+
+Anyway, we head to the sanctum.  The door isn't locked. Rusty breaks off the locking pin so it cannot be locked behind us, and we go in.  There are no obvious exits, nor is there any way to operate the locks on the doors.  The door locking shafts lead downstairs, though, so we know there must be some way down.  On the desk is a set of papers, and there's something off about the bust of Selune.
+
+Rusty reads the papers, and it's a long-winded, creepy, voyeuristic confession that Father Daragar is behind everything, and is doing it to convert Eryn into a werewolf.  Dirty old creep.  We then move the bust of Selune, and once it's out of the illusion field, it transforms into a statue of Malar.  Rusty casually defaces it and throws it away, which opens the hidden staircase down.
+
+Minion tells everyone whats going on, and they all react in a predictably calm and collected manner by either completely losing their shit or not understanding anything about what is going on.  This fucking town.
+
+# Focus fire on the girl
+
+We go downstairs, and there is Father Daragar and Eryn.  Eryn is in full wolf mode, but Father Daragar is a skinny old fart.  He starts by expositing a bit, but we've been exposited at by masters, and we mock him mercilessly. During this, Rusty is telepathically talking to Eryn, telling her the truth in opposition to Father Daragar's stupid lies.
+
+Combat!  On one side is Rusty, Louie and Raymond, with Minion hanging back and trying to look inconspicuous.  On the other side is a wolfed up Eryn and Father Daragar and his 3 mirror images.  Rusty wins initiative, then Louie & Raymond, followed by Eryn and Father Daragar.
+
+Rusty opens with Magic Missile, which while doing no damage, dispels the mirror images.  Louie & Raymond move forward, but can't reach melee range this round, so hold their actions.  Eryn moves into range (but they keep holding) and has a go at them, but she misses. Father Daragar eldritch blasts Rusty and crits, incapacitating him for one round.
+
+Louie and Raymond grapple Eryn, Father Daragar has another go at Rusty but completely misses.  Minion flies in and pours Wolfsbane potion down Eryn's throat.  Louie then moves to Father Daragar, and smites him - eventually, after burning through _all_ the parties inspiration and silvery barbs from Father Daragar.  Raymond also moves to attack FD, but this prompts an attack of opportunity from Eryn, who takes him out of the fight.  Eryn then moves to attack Rusty, but misses.  Father Daragar tries to hit Louie, but also misses.
+
+Minion feeds Raymond a healing potion, bringing him back to full HP. Rusty also drinks a potion, quickly, but rolls _amazingly_. Then he hits Father Daragar twice with his Lightning Lances.  Louie takes a swing at FD but misses. Eryn turns into a human at this point and falls comatose to the floor. 
+
+# Now to destroy the Chthweenie
+
+Minion tries to turn the portcullis but fails and takes damage for this trouble.  Father Daragar pulls out an evil little sword and starts poking Louie with it.
+
+Rusty shoots Father Daragar, Louie hits him, and Raymond bites and grapples him.  Father Daragar _smashes_ Raymond, dropping him.  Rusty runs over, feeds Raymond a potion, and shoots the shit out of Father Daragar, stunning him.  Ethan had to temporarily leave the room to scream. Louie pokes Father Daragar in his Cthweenie with the silver sword and Rusty grounds a Lightning Bolt down it to kill the Father.  We loot the body and get a Necklace of Mage Armour AC 17, which will be given to Raymond.
+
+We nurse Eryn back to life, Rusty has a go at opening the portcullis, and Louie goes upstairs to reassure the townsfolk.
+
+# Then the body gets back up.
