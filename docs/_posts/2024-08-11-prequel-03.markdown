@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # OH&S should have condemned this barn years ago
 
-Our heroes begin the adventure standing next to Oswald's body inside a burning barn.  Rusty starts dragging Oswald's body outside, using judicious applications of Control FLames to keep the area around him reasonably safe, but it's slow going because of all the fallen beams.  He sends Minion to open the doors to the pens to save the trapped livestock - chickens, oxen and truffle pigs.  He gets the chicken pens opened in the first round.  He leaves Louie and Raymond with the - he thought - simple task of _just getting themselves out_.  Once more, he overestimates their abilities.
+Our heroes begin the adventure standing next to Oswald's body inside a burning barn.  Rusty starts dragging Oswald's body outside, using judicious applications of Control Flames to keep the area around him reasonably safe, but it's slow going because of all the fallen beams.  He sends Minion to open the doors to the pens to save the trapped livestock - chickens, oxen and truffle pigs.  He gets the chicken pens opened in the first round.  He leaves Louie and Raymond with the - he thought - simple task of _just getting themselves out_.  Once more, he overestimates their abilities.
 
 Louie and Raymond start blindly stumbling through the smoke, walking into a burning beam - Raymond took the damage.  Then they got run over by fleeing chickens, taking more damage.  Louie opens up his portable hole and puts Raymond inside to protect him, and a bunch of chickens fall in while he's doing that.  Then he manages to get himself pinned under a falling beam, while at the same time failing a bunch of saves against smoke inhalation, dropping his movement rate to about half.
 
@@ -31,6 +31,8 @@ We then rest for the night in the inn, as it is apparently impossible to reach S
 
 "Oswald my servant, you are to find Father Daragah and inform him to pay his taxes or else we will reveal his secret. Additionally, you are to discern any knowledge regarding Sir Thames. Yours eternally, W.G."
 
+Apparently nobody notices at this point that, in addition to Oswald's body, there is also Raymond and a bunch of chickens in the portable hole.  14 chickens, if I recall correctly.
+
 # The idiot in the woods
 
 In the morning we set off for Sybil's house, and by following the instructions we get there without incident. It is a tall manor house, grayed with age, lightly covered in vines.  The door has a knocker in the shape of a lion, which we greet.  It looks down.  We look down.  There is a package there, addressed to Rusty, Louie and Raymond.  That is obviously exclusionist against created life forms, as Minion is right there, and we stand up for the poor little guy.  People can be so thoughtless.  The addressing changes to Raymond and Minion, which just underlines that they were unthinkingly prejudiced initially, and know they are being deliberately offensive.  I cannot wait until we get out of this podunk town.  It has some nice people, but there are one hell of a lot of assholes.
@@ -51,7 +53,7 @@ Then we get Raymond out of the hole to go there, and the bloody thing is now ful
 
 # Silver swords really do matter
 
-We go and dig up the sword, and we end up giving it to Louie, because god knows he needs _something_. It's a Silver Moon-touched Longsword +1 that casts bright light a 15' radius, and dim light in a further 15'.  Discussing the nature of the sword leads to a discussion about the "extra" abilities that Lycanthropes have in Ethan's world.  Basically, you need silver.  Nothing else will do.  Seriously - you can slaughter a lycanthrope with a silver fork, while a Meteor Swarm will bounce off them without doing any damage, unless you somehow manage to integrate silver into it somewhere.  So Rusty has a desperately cobble together stuff on the way back to the church to boost the party members.  We take 3 pieces of silver cutlery from Sir Thames house, and silver Rusty's mace and boost his lightning launcher for 6 silver-enhanced shots.  Of Lightning.
+We go and dig up the sword, and we end up giving it to Louie, because god knows he needs _something_. It's a Silver Moon-touched Longsword +1 that casts bright light a 15' radius, and dim light in a further 15'.  Discussing the nature of the sword leads to a discussion about the "extra" abilities that Lycanthropes have in Ethan's world.  Basically, you need silver.  Nothing else will do.  Seriously - you can slaughter a lycanthrope with a silver fork, while a Meteor Swarm will bounce off them without doing any damage, unless you somehow manage to integrate silver into it somewhere.  So Rusty has to desperately cobble together stuff on the way back to the church to boost the party members.  We take 3 pieces of silver cutlery from Sir Thames house, and silver Rusty's mace and boost his lightning launcher for 6 silver-enhanced shots.  Of Lightning.
 
 He also crafts the silver arrowhead that Eryn's dad left for her into a tooth cap for Raymond.  All while running back to the church.
 
@@ -59,7 +61,7 @@ He also crafts the silver arrowhead that Eryn's dad left for her into a tooth ca
 
 We get back to the church just before the doors close and self-lock.  Nothing suspicious about that.  We spend some time making sure that everyone in the town is there, and they are, waiting for the first course of food to show up.  Which, of course, raises the question of who is cooking?  Oh, and Father Daragar is apparently in his sanctum, sanctuming.  We grab all the potions of Wolfsbane Haladriel managed to cook up - only one.  What the f, Haladriel?  You had ingredients for _at least_ two, and this is supposed to be what you are good at!
 
-Anyway, we head to the sanctum.  The door isn't locked. Rusty breaks off the locking pin so it cannot be locked behind us, and we go in.  There are no obvious exits, nor is there any way to operate the locks on the doors.  The door locking shafts lead downstairs, though, so we know there must be some way down.  On the desk is a set of papers, and there's something off about the bust of Selune.
+Anyway, we head to the sanctum.  The door isn't locked. Rusty breaks off the locking pin so it cannot be locked behind us, and we go in.  There are no obvious exits, nor is there any way to operate the locks on the church doors.  The locking shafts lead downstairs, though, so we know there must be some way down.  On the desk is a set of papers, and there's something off about the bust of Selune.
 
 Rusty reads the papers, and it's a long-winded, creepy, voyeuristic confession that Father Daragar is behind everything, and is doing it to convert Eryn into a werewolf.  Dirty old creep.  We then move the bust of Selune, and once it's out of the illusion field, it transforms into a statue of Malar.  Rusty casually defaces it and throws it away, which opens the hidden staircase down.
 
