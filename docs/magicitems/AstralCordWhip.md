@@ -22,6 +22,6 @@ On a critical hit against any creature, the wielder can expend 3 charges to inst
 
 The instant kill feature of this weapon is subject to DM discretion to prevent one-shotting of BBEGs.
 
-The instant kill feature work by breaking the connection between the creature's soul or animating force, and their body.
+The instant kill feature works by breaking the connection between the creature's soul or animating force, and their body.
 
 For the purposes of this whip, a critical hit only counts as one achieved by rolling a natural 20.
