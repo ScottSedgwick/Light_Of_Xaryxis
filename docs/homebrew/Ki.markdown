@@ -25,7 +25,7 @@ He gets one Ki point per level, so Dennis currently has 11 Ki points, which refr
 | 2     | PHB    | Step of the Wind (ki): expend 1 ki point to take both the Disengage and Dash actions as a bonus action. |
 | 2     | PHB    | Uncanny Metabolism: once per long rest, when rolling initiative, regain all ki points and one MA die + monk level HP. |
 | 3     | Tasha  | Ki-fuelled attack: if you spend 1 ki point or more as part of your action on your turn, you can make a flurry of blows attack as a bonus action. |
-| 5     | PHB    | Stunning Strike: Expend 1 ki point to attempt a Stunning Strike. Target must make a CON save. On failure, the target is stunned until the start of your next turn. On a save, they target takes Force damage equal to a roll of your Martial Arts die plus your Wisdom modifier. |
+| 5     | PHB    | Stunning Strike: Expend 1 ki point to attempt a Stunning Strike. Target must make a CON save. On failure, the target is stunned until the start of your next turn. On a save, the target takes Force damage equal to a roll of your Martial Arts die plus your Wisdom modifier. |
 | 5     | Tasha  | Focused Aim. When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each ki point spent, potentially turning the miss into a hit. |
 | 10    | PHB    | Improved Flurry of Blows: expend one ki point to make 3 unarmed strikes as a bonus action. |
 | 10    | PHB    | Improved Patient Defense (ki): When you expend a ki point to use Patient Defense, you gain a number of Temporary Hit Points equal to 2 rolls of your MA die. |
@@ -37,8 +37,8 @@ He gets one Ki point per level, so Dennis currently has 11 Ki points, which refr
 | ----- | ------ | ------- |
 | 3     | Tasha  | Hand of Healing. Expend 1 ki point to heal a number of HP equal to one roll of your MA die + your Wisdom modifier. |
 | 3     | Tasha  | Hand of Harm. Expend 1 ki point to deal extra necrotic damage equal to one roll of your MA die + your Wisdom modifier. You can use this feature only once per turn. |
-| 6     | Tasha  | Physician's Touch. When you use Hands of HEaling on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned or stunned. |
-| 11    | Tasha  | Flurry of Healing and Harm. When you use Flurry of Blows, you can replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing. In addition, you can use Hand of Harm without spending the ki points for Hand of Harm. You can still only use Hand of HArm once per turn. |
+| 6     | Tasha  | Physician's Touch. When you use Hands of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned or stunned. |
+| 11    | Tasha  | Flurry of Healing and Harm. When you use Flurry of Blows, you can replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing. In addition, you can use Hand of Harm without spending the ki points for Hand of Harm. You can still only use Hand of Harm once per turn. |
 
 ## Ethan Homebrew
 
