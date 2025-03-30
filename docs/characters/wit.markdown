@@ -8,9 +8,9 @@ char:
     name: Wit
     class: Mindwitness
     image: 
-        uri: https://static.wikia.nocookie.net/forgottenrealms/images/a/a7/Mindwitness-5e.jpg/revision/latest?cb=20171010231900
+        uri: https://static.wikia.nocookie.net/forgottenrealms/images/a/a7/Mindwitness-5e.jpg
         size: 1000px
-    level: 9
+    level: 5
     race: Mindwitness
     background: Bluetspur Orphan
     player: Scott
@@ -101,8 +101,8 @@ char:
         insight: 12
         investigation: 12
     otherprofs: |
-        **Telepathic Hub**. When the Mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
-        **Multiattack**. The Mindwitness makes two attacks: one with its tentacles and one with its bite.
+        <b>Telepathic Hub</b>. When the Mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
+        <b>Multiattack</b> The Mindwitness makes two attacks: one with its tentacles and one with its bite.
     ac: 15
     initiative: 2
     speed: Fly 20 (hover)
@@ -141,12 +141,12 @@ char:
     bonds: Bonded to Rusty
     flaws: 
     features: |
-        **Aversion Ray**. The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-        **Fear Ray**. The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-        **Psychic Ray**. The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
-        **Slowing Ray**. The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take wither an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-        **Stunning Ray**. The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself n a success.
-        **Telekinetic Ray**. If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the Mindwitness movies it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the Mindwitness's next turn or until the Mindwitness is incapacitated.
+        <b>Aversion Ray</b>. The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+        <b>Fear Ray</b>. The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+        <b>Psychic Ray</b>. The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
+        <b>Slowing Ray</b>. The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take wither an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+        <b>Stunning Ray</b>. The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself n a success.
+        <b>Telekinetic Ray</b>. If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the Mindwitness movies it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the Mindwitness's next turn or until the Mindwitness is incapacitated.
         If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. The Mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.
     age: 1
     height: Large
