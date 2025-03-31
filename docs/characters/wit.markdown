@@ -18,7 +18,7 @@ categories: jekyll update
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 15 (+2) | 17 (+3) | 15 (+2) | 10 (+0) |
 
-| **Saving Throws** Int +5, Wis +5 | **Skills** Perception +8 |
+| **Saving Throws** Int +6, Wis +5 | **Skills** Perception +8 |
 | **Condition Immunities** prone   | **Senses** darkvision 120ft, passive perception 18 |
 | **Languages** Deep Speech, telepathy 600ft, Undercommon | **Challenge** 5 (1,800 XP) |
 | **Proficiency Bonus** +4 | |
