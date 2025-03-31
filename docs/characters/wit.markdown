@@ -10,7 +10,7 @@ categories: jekyll update
 
 **Armor Class:** 15 (natural armor)
 
-**Hit Points:** 125 (10d10 + 20) [10,8,7,10,9,7,10,8,9,10,6,7]
+**Hit Points:** 125 (12d10 + 20) [10,8,7,10,9,7,10,8,9,10,6,7]
 
 **Speed:** 0 ft., fly 20 ft. (hover)
 
