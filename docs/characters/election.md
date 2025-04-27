@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title:  "2025 Election - Bennelong"
 date:   2025-04-27 15:13:39 +1100
 categories: jekyll update
