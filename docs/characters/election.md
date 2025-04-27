@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "2025 Election - Bennelong"
+date:   2025-04-27 15:13:39 +1100
+categories: jekyll update
+---
 # Bennelong Electorate
 
 ## House of Representatives Ballot
