@@ -1,0 +1,44 @@
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.css" rel="stylesheet">
+    <script type="text/javascript" src="mkcanvas.js"></script>
+</head>
+<body onload="buildCanvas()">
+    <div class="grid">
+        <div class="s6">
+            <label for="txtmsg">Scroll Message:</label>
+            <textarea class="s6" id="txtmsg" style="height: 100%; width: 100%;" oninput="buildCanvas()"></textarea>
+        </div>
+        <div class="s2">&nbsp;</div>
+        <div class="grid s4">
+            <label class="s4" for="height">Scroll Height:</label>
+            <div class="s8 field border fill">
+                <input class="s8" type="number" id="height" value="500" onchange="buildCanvas()"/>
+            </div>
+
+            <label class="s4" for="width">Scroll Width:</label>
+            <div class="s8 field border fill">
+                <input class="s8" type="number" id="width" value="300" onchange="buildCanvas()"/>
+            </div>
+
+            <label class="s4" for="fontsize">Font Size:</label>
+            <div class="s8 field border fill">
+                <input class="s8" type="number" id="fontsize" value="24" onchange="buildCanvas()"/>
+            </div>
+
+            <div class="s12">
+                <button onclick="exportImage()" >Save</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="s12">
+                <br/>
+                <h4>Preview:</h4>
+            </div>
+            <div class="s12">
+                <canvas id="sandbox" width="300" height="500"></canvas>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
