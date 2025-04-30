@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link
+        rel="stylesheet"
+        href="{{site.baseurl}}/assets/css/style.css"
+        media="screen"
+        type="text/css"
+    />
+    <link
+        rel="stylesheet"
+        href="{{site.baseurl}}/assets/css/print.css"
+        media="print"
+        type="text/css"
+    />
+    <link rel="icon" href="{{site.baseurl}}/assets/images/mind-flayer-favicon.jpg" />
+</head>
+<body>
+
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+</body>
+
+</html>

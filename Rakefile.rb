@@ -1,9 +1,9 @@
-task :pages do
+task :pages => [:clean] do
     sh "jekyll build -s docs -d pages --incremental"
 end
 
 desc "Serve"
-task :serve do
+task :serve => [:clean] do
     sh "jekyll serve -s docs -d pages --watch --incremental"
 end
 
