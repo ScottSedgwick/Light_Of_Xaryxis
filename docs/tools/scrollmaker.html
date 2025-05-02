@@ -14,7 +14,8 @@
                 <h4 class="s12">Scroll Maker</h4>
                 <div class="s12 field textarea border">
                     <label for="txtmsg">Scroll Message:</label>
-                    <textarea id="txtmsg" oninput="buildCanvas()">Twas brillig and the slithy toves did gyre and gimble in the wabe. All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
+                    <textarea id="txtmsg" oninput="buildCanvas()">Twas brillig and the slithy toves did gyre and gimble in the wabe.
+All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
                 </div>
 
                 <div class="s12 grid">
@@ -62,7 +63,7 @@
                         <label>Right Margin</label>
                     </div>
 
-                    <div class="s6 field label border fill">
+                    <div class="s9 field label border fill">
                         <select name="font" id="font" onchange="buildCanvas()">
                             <option value="serif">Serif</option>
                             <option value="sans-serif">Sans Serif</option>
@@ -73,7 +74,7 @@
                         <label>Font</label>
                     </div>
 
-                    <div class="s6 field label border fill">
+                    <div class="s3 field label border fill">
                         <input type="number" id="fontsize" value="24" onchange="buildCanvas()"/>
                         <label>Font Size</label>
                     </div>
@@ -86,7 +87,7 @@
             </div>
         </div>
         <div class="s6">
-            <h4>Preview:</h4>
+            <h4>Preview</h4>
             <canvas id="sandbox" width="500" height="500"></canvas>
         </div>
     </div>

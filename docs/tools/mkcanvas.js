@@ -44,7 +44,7 @@ function buildCanvas() {
     ctx.font = fontheight + "px " + font;
     const msg = document.getElementById("txtmsg").value;
     //const msg = "This is a test message.  Please ignore. Go about your business.";
-    const lines = getLines(ctx, msg, width - leftmargin - rightmargin);
+    const lines = getNlLines(ctx, msg, width - leftmargin - rightmargin);
 
     var image = new Image;
     image.onload = function() {
@@ -54,6 +54,10 @@ function buildCanvas() {
         }
     };
     image.src = background;
+}
+
+function getNlLines(ctx, text, maxWidth) {
+    return text.split(/\r?\n/).flatMap((x) => getLines(ctx, x, maxWidth));
 }
 
 function getLines(ctx, text, maxWidth) {
