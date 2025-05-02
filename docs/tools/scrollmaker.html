@@ -1,43 +1,93 @@
 <html>
 <head>
+    <title>Scroll Maker</title>
     <link href="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.css" rel="stylesheet">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.1.2/dist/cdn/material-dynamic-colors.min.js"></script>
+    <script type="text/javascript" src="images.js"></script>
     <script type="text/javascript" src="mkcanvas.js"></script>
 </head>
-<body onload="buildCanvas()">
+<body onload="buildThumbnails()">
     <div class="grid">
         <div class="s6">
-            <label for="txtmsg">Scroll Message:</label>
-            <textarea class="s6" id="txtmsg" style="height: 100%; width: 100%;" oninput="buildCanvas()"></textarea>
+            <div class="s6">
+                <h4 class="s12">Scroll Maker</h4>
+                <div class="s12 field textarea border">
+                    <label for="txtmsg">Scroll Message:</label>
+                    <textarea id="txtmsg" oninput="buildCanvas()">Twas brillig and the slithy toves did gyre and gimble in the wabe. All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
+                </div>
+
+                <div class="s12 grid">
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll1)">
+                        <canvas id="scroll1"></canvas>
+                    </button>
+
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll2)">
+                        <canvas id="scroll2"></canvas>
+                    </button>
+
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll3)">
+                        <canvas id="scroll3"></canvas>
+                    </button>
+
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll4)">
+                        <canvas id="scroll4"></canvas>
+                    </button>
+                </div>
+
+                <div class="s12 grid">
+
+                    <div class="s3 field label border fill">
+                        <input type="number" id="topmargin" value="120" onchange="buildCanvas()"/>
+                        <label>Top Margin</label>
+                    </div>
+
+                    <div class="s9 field label border fill">
+                        <input type="number" id="height" value="500" onchange="buildCanvas()" />
+                        <label>Scroll Height</label>
+                    </div>
+                    
+                    <div class="s3 field label border fill">
+                        <input type="number" id="leftmargin" value="90" onchange="buildCanvas()"/>
+                        <label>Left Margin</label>
+                    </div>
+
+                    <div class="s6 field label border fill">
+                        <input type="number" id="width" value="500" onchange="buildCanvas()" />
+                        <label>Scroll Width</label>
+                    </div>
+                    
+                    <div class="s3 field label border fill">
+                        <input type="number" id="rightmargin" value="90" onchange="buildCanvas()"/>
+                        <label>Right Margin</label>
+                    </div>
+
+                    <div class="s6 field label border fill">
+                        <select name="font" id="font" onchange="buildCanvas()">
+                            <option value="serif">Serif</option>
+                            <option value="sans-serif">Sans Serif</option>
+                            <option value="monospace">Monospace</option>
+                            <option value="cursive">Cursive</option>
+                            <option value="fantasy" selected>Fantasy</option>
+                        </select>
+                        <label>Font</label>
+                    </div>
+
+                    <div class="s6 field label border fill">
+                        <input type="number" id="fontsize" value="24" onchange="buildCanvas()"/>
+                        <label>Font Size</label>
+                    </div>
+                </div>
+
+                <div class="s12">
+                    <br/>
+                    <button onclick="exportImage()" >Save</button>
+                </div>
+            </div>
         </div>
-        <div class="s2">&nbsp;</div>
-        <div class="grid s4">
-            <label class="s4" for="height">Scroll Height:</label>
-            <div class="s8 field border fill">
-                <input class="s8" type="number" id="height" value="500" onchange="buildCanvas()"/>
-            </div>
-
-            <label class="s4" for="width">Scroll Width:</label>
-            <div class="s8 field border fill">
-                <input class="s8" type="number" id="width" value="300" onchange="buildCanvas()"/>
-            </div>
-
-            <label class="s4" for="fontsize">Font Size:</label>
-            <div class="s8 field border fill">
-                <input class="s8" type="number" id="fontsize" value="24" onchange="buildCanvas()"/>
-            </div>
-
-            <div class="s12">
-                <button onclick="exportImage()" >Save</button>
-            </div>
-        </div>
-        <div class="grid">
-            <div class="s12">
-                <br/>
-                <h4>Preview:</h4>
-            </div>
-            <div class="s12">
-                <canvas id="sandbox" width="300" height="500"></canvas>
-            </div>
+        <div class="s6">
+            <h4>Preview:</h4>
+            <canvas id="sandbox" width="500" height="500"></canvas>
         </div>
     </div>
 </body>
