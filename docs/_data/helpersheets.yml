@@ -1,4 +1,18 @@
+- name: Backgrounds
+  link: https://scottsedgwick.github.io/MagicItems/backgrounds.html
 - name: Conditions
   link: /Light_Of_Xaryxis/helpersheets/Conditions.html
-- name: Dennis' Wishlist
+- name: Crafting
+  link: https://scottsedgwick.github.io/pscrafting/
+- name: Feats
+  link: https://scottsedgwick.github.io/MagicItems/feats.html
+- name: Lineages
+  link: https://scottsedgwick.github.io/MagicItems/lineages.html
+- name: Magic Items
+  link: https://scottsedgwick.github.io/MagicItems/magic-items.html
+- name: Scroll Maker
+  link: /Light_Of_Xaryxis/tools/scrollmaker.html
+- name: Spells
+  link: https://scottsedgwick.github.io/MagicItems/spells.html
+- name: Wishlist (Dennis)
   link: /Light_Of_Xaryxis/helpersheets/DennisWishlist.html
