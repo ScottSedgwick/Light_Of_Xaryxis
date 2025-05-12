@@ -8,7 +8,7 @@ char:
     name: Rusty
     class: Artificer (Armourer)
     image: 
-        uri: https://static.wikia.nocookie.net/villains/images/f/fe/Rusty.png
+        uri: assets/images/Rustys-New-Suit.jpeg
         size: 1000px
     level: 9
     race: Flumph
