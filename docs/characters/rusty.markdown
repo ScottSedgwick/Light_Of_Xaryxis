@@ -8,7 +8,7 @@ char:
     name: Rusty
     class: Artificer (Armourer)
     image: 
-        uri: assets/images/Rustys-New-Suit.jpeg
+        uri: /Light_Of_Xaryxis/assets/images/Rustys-New-Suit.jpeg
         size: 1000px
     level: 9
     race: Flumph
