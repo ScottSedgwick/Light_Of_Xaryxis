@@ -52,7 +52,7 @@ _(and conceivably could have harvested parts from)_
 * 50 Quivers with 20 arrows each
 * Magic shield that shouts your words
 * Scrolls: Knock, Dimension Door, Mass Heal, Greater Invisibility, Regeneration, Teleport, Clone
-* Scroll: ispel Magic
+* Scroll: Dispel Magic
 * 2 watches (one gold, one platinum)
 * Jewelery
 

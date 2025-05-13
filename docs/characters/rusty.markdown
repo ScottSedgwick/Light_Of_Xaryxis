@@ -10,7 +10,7 @@ char:
     image: 
         uri: /Light_Of_Xaryxis/assets/images/Rustys-New-Suit.jpeg
         size: 1000px
-    level: 9
+    level: 12
     race: Flumph
     background: Bluetspur Engineer
     player: Scott
@@ -37,9 +37,9 @@ char:
         bonus: 3
         save: 3
     cha:
-        value: 17
-        bonus: 3
-        save: 3
+        value: 18
+        bonus: 4
+        save: 4
     profbonus: 4
     skills:
         acrobatics:
@@ -55,7 +55,7 @@ char:
             bonus: 4
             prof: false
         deception:
-            bonus: 3
+            bonus: 4
             prof: false
         history:
             bonus: 10
@@ -64,7 +64,7 @@ char:
             bonus: 7
             prof: true
         intimidation:
-            bonus: 3
+            bonus: 4
             prof: false
         investigation:
             bonus: 14
@@ -79,10 +79,10 @@ char:
             bonus: 8
             prof: true
         performance:
-            bonus: 3
+            bonus: 4
             prof: false
         persuasion:
-            bonus: 15+d8
+            bonus: 16+d8
             prof: true
         religion:
             bonus: 5
@@ -105,22 +105,22 @@ char:
         Int: jewelers tools, leatherworkers tools, survival, persuasion, expertise in investigation.
         Engineer: alchemists tools, arcana, investigation, draconic.
         Languages: Common, Draconic, Telepathy.
-    ac: 24
+    ac: 26
     initiative: 9
     speed: 35
     hp:
-        max: 94
-        current: 94
+        max: 143
+        current: 143
         temp: 0
     hitdice:
-        total: 9d8
-        remaining: 9
+        total: 12d8
+        remaining: 12
     attacks: 
         - name: LL 1 (300)
-          bonus: +13
+          bonus: +16
           damage: 2d6+5 lightning
         - name: LL 2 (300)
-          bonus: +13
+          bonus: +16
           damage: 1d6+5 lightning
         - name: Mace
           bonus: +9
@@ -152,11 +152,11 @@ char:
         Scroll of Mass Heal (700 HP, 60ft R)
         3 potions of superior healing (8d4+8)
     personality: |
-        I ask a lot of questions.
-        I bluntly say what other people are hinting at or hiding.
-    ideals: The low are lifted up, and the high and mighty are brought down. Change is the nature of things.
-    bonds: No one else should have to endure the hardships that I've been through.
-    flaws: I'd rather kill someone in their sleep than fight fair.
+        I pepper my speech with the jargon of my trade, like reorienting the active plane vectors into folded dimensions.
+        Ideas are fine, but results are what counts.
+    ideals: Science. A rigorous application of logical principles and protocols will lead us toward progress more surely than any belief system.
+    bonds: I have dedicated my life to finding a solution to a scientific problem - transcendence.
+    flaws: Nothing is ever simple, and if it seems simple, I'll find a way to complicate it.
     features: |
         [A] Extra attack
         [B] Unarmed attack
