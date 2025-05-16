@@ -4,6 +4,11 @@ title:  "Rusty"
 date:   2023-06-18 15:13:39 +1100
 categories: jekyll update
 
+
+image: 
+  uri: /Light_Of_Xaryxis/assets/images/Rustys-New-Suit.jpeg
+  size: 1000px
+
 characterName: Rusty
 sheetType: SheetTypeIcewindDale
 className: Artificer

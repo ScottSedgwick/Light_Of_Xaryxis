@@ -4,6 +4,10 @@ title:  "Dennis"
 date:   2023-06-18 15:13:39 +1100
 categories: jekyll update
 
+image: 
+  uri: https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Dennis-Dracula-Loughran-And-Bela-In-Hotel-Transylvania-2.jpg
+  size: 1000px
+
 characterName: Dennis
 sheetType: SheetTypeIcewindDale
 className: Monk (One D&D)
