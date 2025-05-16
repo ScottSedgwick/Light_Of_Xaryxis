@@ -1,0 +1,6 @@
+{% assign conBonus = page.stats.constitution.statValue | divided_by: 2 | minus: 5 | plus: page.stats.constitution.valueBonus %}
+{% assign hp = conBonus | times: page.level | plus: page.bonusHitPoints %}
+{% for h in page.hitPoints %}
+  {% assign hp = hp | plus: h %}
+{% endfor %}
+{{ hp }}

@@ -1,0 +1,2 @@
+{% assign dexBonus = page.stats.dexterity.statValue | divided_by: 2 | minus: 5 | plus: page.stats.dexterity.valueBonus %}
+{{ page.acBase | plus: page.acBonus | plus: dexBonus }}

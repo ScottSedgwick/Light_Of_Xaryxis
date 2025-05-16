@@ -1,0 +1,14 @@
+{% assign statbonus = include.stat.statValue | divided_by: 2 | minus: 5 | plus: include.stat.valueBonus %}
+{% assign profbonus = page.level | minus: 1 | divided_by: 4 | plus: 2 %}
+{% if include.skill.advantage == 1 %}
+{% assign advbonus = 5 %}
+{% else %}
+{% assign advbonus = 0 %}
+{% endif %}
+{% if include.skill.proficiency == 0 %}
+{{ statbonus | plus: advbonus }}
+{% elsif include.skill.proficiency == 1 %}
+{{ profbonus | plus: statbonus | plus: advbonus }}
+{% elsif include.skill.proficiency == 2 %}
+{{ profbonus | plus: statbonus | plus: profbonus | plus: advbonus }}
+{% endif %}
