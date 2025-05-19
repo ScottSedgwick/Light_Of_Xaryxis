@@ -2,33 +2,33 @@
   <header class="charform">
     <section class="charname">
       <label for="charname">Character Name</label>
-      <input name="charname" value="{{ page.char.name }}" />
+      <input name="charname" value="{{ page.characterName }}" />
     </section>
     <section class="misc">
       <ul>
         <li>
           <label for="age">Age</label>
-          <input name="age" value="{{ page.char.age }}" />
+          <input name="age" value="{{ page.age }}" />
         </li>
         <li>
           <label for="height">Height</label>
-          <input name="height" value="{{ page.char.height }}" />
+          <input name="height" value="{{ page.height }}" />
         </li>
         <li>
           <label for="weight">Weight</label>
-          <input name="weight" value="{{ page.char.weight }}" />
+          <input name="weight" value="{{ page.weight }}" />
         </li>
         <li>
           <label for="eyes">Eyes</label>
-          <input name="eyes" value="{{ page.char.eyes }}" />
+          <input name="eyes" value="{{ page.eyeColour }}" />
         </li>
         <li>
           <label for="skin">Skin</label>
-          <input name="skin" value="{{ page.char.skin }}" />
+          <input name="skin" value="{{ page.skinColour }}" />
         </li>
         <li>
           <label for="hair">Hair</label>
-          <input name="hair" value="{{page.char.hair }}" />
+          <input name="hair" value="{{page.hairColour }}" />
         </li>
       </ul>
     </section>
@@ -36,17 +36,17 @@
   <main>
     <section>
       <label for="faction">Faction</label>
-      <textarea name="faction" style="height: 3em;">{{ page.char.faction }}</textarea>
+      <textarea name="faction" style="height: 3em;">{{ page.faction }}</textarea>
       <label for="background">Background</label>
-      <textarea name="background" style="height: 50em">{{ page.char.fullbackground }}</textarea>
+      <textarea name="background" style="height: 50em">{{ page.backstory }}</textarea>
     </section>
     <section>
       <label for="features">Features</label>
-      <textarea name="features" style="height: 56em">{{ page.char.features2 }}</textarea>
+      <textarea name="features" style="height: 56em">{% include features.html start=23 count=24 %}</textarea>
     </section>
     <section>
       <label for="traits">Traits</label>
-      <textarea name="traits" style="height: 56em">{{ page.char.traits }}</textarea>
+      <textarea name="traits" style="height: 56em">{% include features.html start=47 count=25 %}</textarea>
     </section>
   </main>
 </form>

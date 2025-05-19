@@ -1,5 +1,2 @@
-{% assign result = '' %}
-{% for f in page.features %}
-  {% assign result = result | append: f.infotext | append: #10#13 %}
+{% for f in page.features offset:include.start limit:include.count %}{{ f.infotext }}
 {% endfor %}
-{{ result }}

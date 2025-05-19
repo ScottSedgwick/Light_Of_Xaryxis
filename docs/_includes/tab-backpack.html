@@ -1,8 +1,9 @@
 <form class="charsheet">
+    {% assign pack=page.backpacks[0] %}
     <header class="charform">
       <section class="charname">
         <label for="charname">Character Name</label>
-        <input name="charname" value="{{ page.char.name }}" />
+        <input name="charname" value="{{ page.characterName }}" />
       </section>
       <section class="misc">
         <b>Backpacks can hold no more than 30 lbs of gear.</b><br/>
@@ -18,19 +19,19 @@
             <table>
                 <tr>
                     <td>Bed Roll</td>
-                    <td>{{ page.char.backpack.bedroll }}</td>
+                    <td>{{ pack.bagBedroll }}</td>
                 </tr>
                 <tr>
                     <td>Rope</td>
-                    <td>{{ page.char.backpack.rope }}</td>
+                    <td>{{ pack.bagRope }}</td>
                 </tr>
                 <tr>
                     <td>Ammo</td>
-                    <td>{{ page.char.backpack.ammo }}</td>
+                    <td>{{ pack.bagAmmo }}</td>
                 </tr>
                 <tr>
                     <td>Torches</td>
-                    <td>{{ page.char.backpack.torches }}</td>
+                    <td>{{ pack.bagTorches }}</td>
                 </tr>
             </table>
         </section>
@@ -38,43 +39,43 @@
         <table>
             <tr>
                 <td>Copper</td>
-                <td>{{ page.char.backpack.copper }}</td>
+                <td>{{ pack.bagCash.copper }}</td>
             </tr>
             <tr>
                 <td>Silver</td>
-                <td>{{ page.char.backpack.silver }}</td>
+                <td>{{ pack.bagCash.silver }}</td>
             </tr>
             <tr>
                 <td>Electrum</td>
-                <td>{{ page.char.backpack.electrum }}</td>
+                <td>{{ pack.bagCash.electrum }}</td>
             </tr>
             <tr>
                 <td>Gold</td>
-                <td>{{ page.char.backpack.gold }}</td>
+                <td>{{ pack.bagCash.gold }}</td>
             </tr>
             <tr>
                 <td>Platinum</td>
-                <td>{{ page.char.backpack.platinum }}</td>
+                <td>{{ pack.bagCash.platinum }}</td>
             </tr>
         </table>
         <label for="pocket1">Small Pocket 1</label>
-        <textarea name="pocket1" style="height: 7em">{{ page.char.backpack.pocket1 }}</textarea>
+        <textarea name="pocket1" style="height: 7em">{% include backpackitem.html items=pack.bagPocket1 %}</textarea>
         <label for="pocket2">Small Pocket 2</label>
-        <textarea name="pocket2" style="height: 7em">{{ page.char.backpack.pocket2 }}</textarea>
+        <textarea name="pocket2" style="height: 7em">{% include backpackitem.html items=pack.bagPocket2 %}</textarea>
         <label for="pocket3">Small Pocket 3</label>
-        <textarea name="pocket3" style="height: 7em">{{ page.char.backpack.pocket3 }}</textarea>
+        <textarea name="pocket3" style="height: 7em">{% include backpackitem.html items=pack.bagPocket3 %}</textarea>
         <label for="pocket4">Small Pocket 4</label>
-        <textarea name="pocket4" style="height: 7em">{{ page.char.backpack.pocket4 }}</textarea>
+        <textarea name="pocket4" style="height: 7em">{% include backpackitem.html items=pack.bagTreasure %}</textarea>
       </section>
       <section>
         <label for="flap">Flap Pouch</label>
-        <textarea name="flap" style="height: 19em">{{ page.char.backpack.flap }}</textarea>
+        <textarea name="flap" style="height: 19em">{% include backpackitem.html items=pack.bagFlapPouch %}</textarea>
         <label for="middle">Middle Pouch</label>
-        <textarea name="middle" style="height: 37em">{{ page.char.backpack.middle }}</textarea>
+        <textarea name="middle" style="height: 37em">{% include backpackitem.html items=pack.bagMiddlePouch %}</textarea>
       </section>
       <section>
         <label for="main">Main Pouch</label>
-        <textarea name="main" style="height: 59em">{{ page.char.backpack.main }}</textarea>
+        <textarea name="main" style="height: 59em">{% include backpackitem.html items=pack.bagMainPouch %}</textarea>
       </section>
     </main>
 </form>
