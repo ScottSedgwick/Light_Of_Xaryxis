@@ -18,11 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Don't step on my Bluetspur Shoes
+title: Lamordia
+subtitle: Land of <s>mystery</s> monsters and <s>prestige</s> pollution!
 email: scott.sedgwick@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Follow along with the adventures of Team Strongth the Small,
-  where everyone is really short - even the 7' battlesuit.
+  where everyone is really short - even the <s>7</s> 20 foot battlesuit.
+  Except for Cletus.
 baseurl: "/Light_Of_Xaryxis" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
