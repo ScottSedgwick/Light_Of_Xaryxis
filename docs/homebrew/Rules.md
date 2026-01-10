@@ -31,12 +31,26 @@ categories: jekyll update
 
 # Stunned Condition 
 
-- On each of its turns, the stunned creature can take its action or bonus action, but not both.
-- The stunned creature’s speed is 0.
-- The stunned creature cannot take reactions.
-- The stunned creature can only make a single attack on each of its turns.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
+For normal creatures, the stunned condition is unchanged, but for boss creatures and player characters it is changed as follows:
+
+* Instead of being incapacitated, a stunned creature can take its action or bonus action, but not both.
+* If using its action to attack, a stunned creature may make only one attack.
+* The stunned creature cannot move.
+* The stunned creature cannot take reactions.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+
+# Paralyzed Condition 
+
+For normal creatures, the paralyzed condition is unchanged, but for boss creatures and player characters it is changed as follows:
+
+* Instead of being incapacitated, a paralyzed creature can take its action or bonus action, but not both.
+* If using its action to attack, a paralyzed creature may make only one attack.
+* The paralyzed creature cannot move.
+* The paralyzed creature cannot take reactions.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker is within 5 feet.
 
 # Drowning/Suffocating 
 
