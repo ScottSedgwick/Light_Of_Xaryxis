@@ -25,6 +25,8 @@ categories: jekyll update
 
 **Telepathic Hub**. When the Mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 
+**Telepathic Bond**. Wit has learned Telepathic Bond from a Succubus.  When using his telepathy on individuals he knows well, he ignores range restrictions, and does not even need to be on the same plane of existence.
+
 ## Actions
 
 **DC** The DC for all Mindwitness effects is based on Int (+3) and Proficiency Bonus (+4): 15.
