@@ -1,8 +1,11 @@
 var background = scroll1;
 var quill;
 
-function changeImage(imgUrl) {
+function changeImage(imgUrl, top, left, width) {
     background = imgUrl;
+    document.getElementById("topmargin").value = top;
+    document.getElementById("leftmargin").value = left;
+    document.getElementById("divwidth").value = width;
     buildCanvas();
 }
 
@@ -18,9 +21,9 @@ function buildThumbnails() {
 }
 
 function buildEditor() {
-    // const Font = Quill.import('attributors/class/font');
-    // Font.whitelist = ['sans-serif', 'serif', 'monospace', 'arial', 'roboto', 'mirza']; 
-    // Quill.register(Font, true);
+    const Font = Quill.import('attributors/class/font');
+    Font.whitelist = ['roboto', 'firacode','serif', 'monospace']; 
+    Quill.register(Font, true);
 
     const toolbarOptions = [
         ['bold', 'italic', 'underline', 'strike'],        // toggled buttons
@@ -33,7 +36,7 @@ function buildEditor() {
         [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
 
         [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
-        [{ 'font': [] }],
+        [{ 'font': ['sans-serif', 'monospace', 'serif', 'firacode', 'roboto'] }],
         [{ 'align': [] }],
 
         ['clean']                                         // remove formatting button
@@ -70,7 +73,7 @@ function buildCanvas() {
     var width = document.getElementById("width").value;
     var top = document.getElementById("topmargin").value;
     var left = document.getElementById("leftmargin").value;
-    var right = document.getElementById("rightmargin").value;
+    var divwidth = document.getElementById("divwidth").value;
     imagebox.style.backgroundImage = "url('" + background + "')";
     imagebox.style.backgroundRepeat = "no-repeat";
     imagebox.style.backgroundSize = "100% 100%";
@@ -78,11 +81,11 @@ function buildCanvas() {
     imagebox.style.width = width + "px";
     imagebox.style.paddingTop = top + "px";
     imagebox.style.paddingLeft = left + "px";
-    imagebox.style.paddingRight = right + "px";
 
     var msg = quill.getSemanticHTML();
     var sandbox = document.getElementById("sandbox");
-    sandbox.innerHTML = msg;
+    sandbox.style.maxWidth = divwidth + "px";
+    sandbox.innerHTML = msg.replace(/&nbsp;/g, " ");
 }
 
 function getNlLines(ctx, text, maxWidth) {

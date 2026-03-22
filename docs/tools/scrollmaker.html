@@ -9,6 +9,9 @@
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
 
+    <link href="https://fonts.googleapis.com/css?family=Fira+Code" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
     <script type="text/javascript" src="../assets/js/html2canvas.js"></script>
     <link rel="stylesheet" href="../assets/css/quill.css" />
 
@@ -29,33 +32,36 @@
                 </div>
 
                 <div class="s12 grid">
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll1)">
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll1, 120, 90, 315)">
                         <canvas id="scroll1"></canvas>
                     </button>
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll2)">
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll2, 100, 100, 315)">
                         <canvas id="scroll2"></canvas>
                     </button>
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll3)">
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll3, 100, 120, 265)">
                         <canvas id="scroll3"></canvas>
                     </button>
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll4)">
+                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll4, 90, 100, 290)">
                         <canvas id="scroll4"></canvas>
                     </button>
                 </div>
 
                 <div class="s12 grid">
+                    <div class="s6 field label border fill">
+                        <input type="number" id="height" value="500" onchange="buildCanvas()" />
+                        <label>Scroll Height</label>
+                    </div>
+                    <div class="s6 field label border fill">
+                        <input type="number" id="width" value="500" onchange="buildCanvas()" />
+                        <label>Scroll Width</label>
+                    </div>
 
                     <div class="s3 field label border fill">
                         <input type="number" id="topmargin" value="120" onchange="buildCanvas()"/>
                         <label>Top Margin</label>
-                    </div>
-
-                    <div class="s9 field label border fill">
-                        <input type="number" id="height" value="500" onchange="buildCanvas()" />
-                        <label>Scroll Height</label>
                     </div>
                     
                     <div class="s3 field label border fill">
@@ -63,14 +69,10 @@
                         <label>Left Margin</label>
                     </div>
 
-                    <div class="s6 field label border fill">
-                        <input type="number" id="width" value="500" onchange="buildCanvas()" />
-                        <label>Scroll Width</label>
-                    </div>
                     
                     <div class="s3 field label border fill">
-                        <input type="number" id="rightmargin" value="90" onchange="buildCanvas()"/>
-                        <label>Right Margin</label>
+                        <input type="number" id="divwidth" value="90" onchange="buildCanvas()"/>
+                        <label>Width</label>
                     </div>
                 </div>
 
