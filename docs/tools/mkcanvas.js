@@ -36,12 +36,26 @@ function buildCanvas() {
     var rightmargin = Number(document.getElementById("rightmargin").value);
     var font = document.getElementById("font").value;
     var fontheight = Number(document.getElementById("fontsize").value);
+    var fontbold = document.getElementById("fontbold").checked;
+    var fontitalic = document.getElementById("fontitalic").checked;
+
+    console.warn(font)
+    console.warn(fontheight)
+    console.warn(fontbold)
+    console.warn(fontitalic)
 
     canvas.height = height;
     canvas.width = width;
     const ctx = canvas.getContext("2d");
 
     ctx.font = fontheight + "px " + font;
+    if (fontbold) {
+        ctx.font = "bold " + ctx.font
+    }
+    if (fontitalic) {
+        ctx.font = "italic " + ctx.font
+    }
+    console.warn(ctx.font)
     const msg = document.getElementById("txtmsg").value;
     //const msg = "This is a test message.  Please ignore. Go about your business.";
     const lines = getNlLines(ctx, msg, width - leftmargin - rightmargin);
