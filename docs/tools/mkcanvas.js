@@ -1,6 +1,8 @@
 var background = scroll1;
+var quill;
 
 function changeImage(imgUrl) {
+    console.warn("What?");
     background = imgUrl;
     buildCanvas();
 }
@@ -12,7 +14,37 @@ function buildThumbnails() {
     buildThumbnail(height, width, "scroll2", scroll2);
     buildThumbnail(height, width, "scroll3", scroll3);
     buildThumbnail(height, width, "scroll4", scroll4);
+    buildEditor();
     buildCanvas();
+}
+
+function buildEditor() {
+    const toolbarOptions = [
+  ['bold', 'italic', 'underline', 'strike'],        // toggled buttons
+  ['image'],
+
+  [{ 'list': 'ordered'}, { 'list': 'bullet' }, { 'list': 'check' }],
+  [{ 'script': 'sub'}, { 'script': 'super' }],      // superscript/subscript
+  [{ 'indent': '-1'}, { 'indent': '+1' }],          // outdent/indent
+  [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
+
+  [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
+  [{ 'font': [] }],
+  [{ 'align': [] }],
+
+  ['clean']                                         // remove formatting button
+];
+    quill = new Quill('#editor', {
+        modules: {
+            syntax: true,
+            toolbar: toolbarOptions,
+        },
+        placeholder: 'Compose an epic...',
+        theme: 'snow', // or 'bubble'
+    });
+    quill.on('text-change', (delta, olddelta, source) => {
+        buildCanvas();
+    });
 }
 
 function buildThumbnail(h, w, el, img) {
@@ -28,46 +60,24 @@ function buildThumbnail(h, w, el, img) {
 }
 
 function buildCanvas() {
-    const canvas = document.getElementById("sandbox");
-    var height = Number(document.getElementById("height").value);
-    var topmargin = Number(document.getElementById("topmargin").value);
-    var width = Number(document.getElementById("width").value);
-    var leftmargin = Number(document.getElementById("leftmargin").value);
-    var rightmargin = Number(document.getElementById("rightmargin").value);
-    var font = document.getElementById("font").value;
-    var fontheight = Number(document.getElementById("fontsize").value);
-    var fontbold = document.getElementById("fontbold").checked;
-    var fontitalic = document.getElementById("fontitalic").checked;
+    var imagebox = document.getElementById("imagebox");
+    var height = document.getElementById("height").value;
+    var width = document.getElementById("width").value;
+    var top = document.getElementById("topmargin").value;
+    var left = document.getElementById("leftmargin").value;
+    var right = document.getElementById("rightmargin").value;
+    imagebox.style.backgroundImage = "url('" + background + "')";
+    imagebox.style.backgroundRepeat = "no-repeat";
+    imagebox.style.backgroundSize = "100% 100%";
+    imagebox.style.height = height + "px";
+    imagebox.style.width = width + "px";
+    imagebox.style.paddingTop = top + "px";
+    imagebox.style.paddingLeft = left + "px";
+    imagebox.style.paddingRight = right + "px";
 
-    console.warn(font)
-    console.warn(fontheight)
-    console.warn(fontbold)
-    console.warn(fontitalic)
-
-    canvas.height = height;
-    canvas.width = width;
-    const ctx = canvas.getContext("2d");
-
-    ctx.font = fontheight + "px " + font;
-    if (fontbold) {
-        ctx.font = "bold " + ctx.font
-    }
-    if (fontitalic) {
-        ctx.font = "italic " + ctx.font
-    }
-    console.warn(ctx.font)
-    const msg = document.getElementById("txtmsg").value;
-    //const msg = "This is a test message.  Please ignore. Go about your business.";
-    const lines = getNlLines(ctx, msg, width - leftmargin - rightmargin);
-
-    var image = new Image;
-    image.onload = function() {
-        ctx.drawImage(image, 0, 0, width, height);
-        for (var i = 0; i < lines.length; i++) {
-            ctx.fillText(lines[i], leftmargin, topmargin + i * fontheight, width - leftmargin - rightmargin);
-        }
-    };
-    image.src = background;
+    var msg = quill.getSemanticHTML();
+    var sandbox = document.getElementById("sandbox");
+    sandbox.innerHTML = msg;
 }
 
 function getNlLines(ctx, text, maxWidth) {
@@ -94,14 +104,16 @@ function getLines(ctx, text, maxWidth) {
 }
 
 function exportImage() {
-    const canvas = document.getElementById("sandbox");
-    // Create a Blob from the canvas data
-    canvas.toBlob((blob) => {
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'canvas-image.png';
-        a.click();
-        URL.revokeObjectURL(url); // Clean up after download
-    }, 'image/png');
+    const source = document.getElementById("imagebox");
+
+    html2canvas(source).then(function(canvas) {// Create a Blob from the canvas data
+        canvas.toBlob((blob) => {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'canvas-image.png';
+            a.click();
+            URL.revokeObjectURL(url); // Clean up after download
+        }, 'image/png');
+    });
 }

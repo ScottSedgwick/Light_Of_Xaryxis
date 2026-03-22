@@ -1,6 +1,16 @@
 <html>
 <head>
     <title>Scroll Maker</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+
+    <script type="text/javascript" src="../assets/js/html2canvas.js"></script>
+
     <link href="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.css" rel="stylesheet">
     <script type="module" src="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.js"></script>
     <script type="module" src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.1.2/dist/cdn/material-dynamic-colors.min.js"></script>
@@ -12,10 +22,9 @@
         <div class="s6">
             <div class="s6">
                 <h4 class="s12">Scroll Maker</h4>
-                <div class="s12 field textarea border">
-                    <label for="txtmsg">Scroll Message:</label>
-                    <textarea id="txtmsg" oninput="buildCanvas()">Twas brillig and the slithy toves did gyre and gimble in the wabe.
-All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
+                <div class="s12">
+                    <div id="toolbar"></div>
+                    <div id="editor"></div>
                 </div>
 
                 <div class="s12 grid">
@@ -62,45 +71,6 @@ All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
                         <input type="number" id="rightmargin" value="90" onchange="buildCanvas()"/>
                         <label>Right Margin</label>
                     </div>
-
-                    <div class="s3 field label border fill">
-                        <select name="font" id="font" onchange="buildCanvas()">
-                            <option value="Arial">Arial</option>
-                            <option value="'Brush Script MT'">Brush Script MT</option>
-                            <option value="'Courier New'">Courier New</option>
-                            <option value="cursive">Cursive</option>
-                            <option value="fantasy" selected>Fantasy</option>
-                            <option value="Garamond">Garamond</option>
-                            <option value="Georgia">Georgia</option>
-                            <option value="monospace">Monospace</option>
-                            <option value="sans-serif">Sans Serif</option>
-                            <option value="serif">Serif</option>
-                            <option value="Tahoma">Tahoma</option>
-                            <option value="'Times New Roman'">Times New Roman</option>
-                            <option value="'Trebuchet MS'">Trebuchet MS</option>
-                            <option value="Verdana">Verdana</option>
-                        </select>
-                        <label>Font</label>
-                    </div>
-
-                    <div class="s3 field label border fill">
-                        <input type="number" id="fontsize" value="24" onchange="buildCanvas()"/>
-                        <label>Font Size</label>
-                    </div>
-
-                    <div class="s3">
-                        <label class="checkbox">
-                            <input type="checkbox" id="fontbold" value="24" onchange="buildCanvas()"/>
-                            <span>Bold</span>
-                        </label>
-                    </div>
-
-                    <div class="s3">
-                        <label class="checkbox">
-                            <input type="checkbox" id="fontitalic" value="24" onchange="buildCanvas()"/>
-                            <span>Font Italic</span>
-                        </label>
-                    </div>
                 </div>
 
                 <div class="s12">
@@ -109,9 +79,11 @@ All mimsy were the borogroves, and mome wraths outgrabe.</textarea>
                 </div>
             </div>
         </div>
-        <div class="s6">
+        <div class="s6 sandbox">
             <h4>Preview</h4>
-            <canvas id="sandbox" width="500" height="500"></canvas>
+            <div id="imagebox">
+                <div id="sandbox"></div>
+            </div>
         </div>
     </div>
 </body>
