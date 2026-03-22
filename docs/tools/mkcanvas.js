@@ -2,7 +2,6 @@ var background = scroll1;
 var quill;
 
 function changeImage(imgUrl) {
-    console.warn("What?");
     background = imgUrl;
     buildCanvas();
 }
@@ -19,21 +18,27 @@ function buildThumbnails() {
 }
 
 function buildEditor() {
+    // const Font = Quill.import('attributors/class/font');
+    // Font.whitelist = ['sans-serif', 'serif', 'monospace', 'arial', 'roboto', 'mirza']; 
+    // Quill.register(Font, true);
+
     const toolbarOptions = [
-  ['bold', 'italic', 'underline', 'strike'],        // toggled buttons
-  ['image'],
+        ['bold', 'italic', 'underline', 'strike'],        // toggled buttons
+        ['image'],
 
-  [{ 'list': 'ordered'}, { 'list': 'bullet' }, { 'list': 'check' }],
-  [{ 'script': 'sub'}, { 'script': 'super' }],      // superscript/subscript
-  [{ 'indent': '-1'}, { 'indent': '+1' }],          // outdent/indent
-  [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
+        [{ 'list': 'ordered'}, { 'list': 'bullet' }, { 'list': 'check' }],
+        [{ 'script': 'sub'}, { 'script': 'super' }],      // superscript/subscript
+        [{ 'indent': '-1'}, { 'indent': '+1' }],          // outdent/indent
+        [{ 'size': ['small', false, 'large', 'huge'] }],  // custom dropdown
+        [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
 
-  [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
-  [{ 'font': [] }],
-  [{ 'align': [] }],
+        [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
+        [{ 'font': [] }],
+        [{ 'align': [] }],
 
-  ['clean']                                         // remove formatting button
-];
+        ['clean']                                         // remove formatting button
+    ];
+
     quill = new Quill('#editor', {
         modules: {
             syntax: true,

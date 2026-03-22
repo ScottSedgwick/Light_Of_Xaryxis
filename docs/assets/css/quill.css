@@ -1,26 +1,50 @@
-/* Set default font-family */
-#editor {
-  font-family: 'Aref Ruqaa';
-  font-size: 18px;
-  height: 375px;
+.ql-editor {
+  background-color: #f0f0f0; /* Replace with your desired color code */
+}
+.ql-toolbar.ql-snow {
+  background-color: #f0f0f0; /* Replace with your desired color */
+  border-radius: 10px 10px 0 0; /* Optional: adds rounded corners */
 }
 
-/* Set dropdown font-families */
-#toolbar .ql-font span[data-label='Aref Ruqaa']::before {
-  font-family: 'Aref Ruqaa';
+.sandbox p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-#toolbar .ql-font span[data-label='Mirza']::before {
-  font-family: 'Mirza';
+.sandbox h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-#toolbar .ql-font span[data-label='Roboto']::before {
-  font-family: 'Roboto';
+.sandbox h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-
-/* Set content font-families */
-.ql-font-mirza {
-  font-family: 'Mirza';
+.sandbox h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-.ql-font-roboto {
-  font-family: 'Roboto';
+.sandbox h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-/* We do not set Aref Ruqaa since it is the default font */
+.sandbox h5 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.sandbox h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
