@@ -22,7 +22,7 @@ function buildThumbnails() {
 
 function buildEditor() {
     const Font = Quill.import('attributors/class/font');
-    Font.whitelist = ['roboto', 'firacode','serif', 'monospace']; 
+    Font.whitelist = ['sans-serif','serif', 'monospace', 'roboto', 'firacode', 'nunito', 'inter', 'rubik', 'dm-sans']; 
     Quill.register(Font, true);
 
     const toolbarOptions = [
@@ -36,7 +36,7 @@ function buildEditor() {
         [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
 
         [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
-        [{ 'font': ['sans-serif', 'monospace', 'serif', 'firacode', 'roboto'] }],
+        [{ 'font': Font.whitelist }],
         [{ 'align': [] }],
 
         ['clean']                                         // remove formatting button

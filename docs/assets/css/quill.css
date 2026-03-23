@@ -49,18 +49,6 @@
   padding-bottom: 0px;
 }
 
-[quill-editor-toolbar] .ql-font span[data-label="Fira Code"]::before {
-  font-family: "Fira Code";
-}
-
-.ql-font-firacode {
-  font-family: "Fira Code";
-}
-
-.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=firacode]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=firacode]::before {
-  content: 'Fira Code';
-}
-
 [quill-editor-toolbar] .ql-font span[data-label="Roboto"]::before {
   font-family: "Roboto";
 }
@@ -71,4 +59,64 @@
 
 .ql-snow .ql-picker.ql-font .ql-picker-label[data-value=roboto]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=roboto]::before {
   content: 'Roboto';
+}
+
+[quill-editor-toolbar] .ql-font span[data-label="Nunito"]::before {
+  font-family: "Nunito";
+}
+
+.ql-font-nunito {
+  font-family: "Nunito";
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=nunito]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=nunito]::before {
+  content: 'Nunito';
+}
+
+[quill-editor-toolbar] .ql-font span[data-label="Inter"]::before {
+  font-family: "Inter";
+}
+
+.ql-font-inter {
+  font-family: "Inter";
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=inter]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=inter]::before {
+  content: 'Inter';
+}
+
+[quill-editor-toolbar] .ql-font span[data-label="Rubik"]::before {
+  font-family: "Rubik";
+}
+
+.ql-font-rubik {
+  font-family: "Rubik";
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=rubik]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=rubik]::before {
+  content: 'Rubik';
+}
+
+[quill-editor-toolbar] .ql-font span[data-label="DM Sans"]::before {
+  font-family: "DM Sans";
+}
+
+.ql-font-dm-sans {
+  font-family: "DM Sans";
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=dm-sans]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=dm-sans]::before {
+  content: 'DM Sans';
+}
+
+[quill-editor-toolbar] .ql-font span[data-label="Fira Code"]::before {
+  font-family: "Fira Code";
+}
+
+.ql-font-firacode {
+  font-family: "Fira Code";
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=firacode]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=firacode]::before {
+  content: 'Fira Code';
 }
