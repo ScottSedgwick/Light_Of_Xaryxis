@@ -1,21 +1,18 @@
-var background = scroll1;
+var background = 'scroll1.png';
+var mtop = 0.160;
+var mleft = 0.170;
+var mwidth = 0.650;
 var quill;
 
 function changeImage(imgUrl, top, left, width) {
     background = imgUrl;
-    document.getElementById("topmargin").value = top;
-    document.getElementById("leftmargin").value = left;
-    document.getElementById("divwidth").value = width;
+    mtop = top;
+    mleft = left;
+    mwidth = width;
     buildCanvas();
 }
 
 function buildThumbnails() {
-    const height = 100;
-    const width = 100;
-    buildThumbnail(height, width, "scroll1", scroll1);
-    buildThumbnail(height, width, "scroll2", scroll2);
-    buildThumbnail(height, width, "scroll3", scroll3);
-    buildThumbnail(height, width, "scroll4", scroll4);
     buildEditor();
     buildCanvas();
 }
@@ -71,20 +68,21 @@ function buildCanvas() {
     var imagebox = document.getElementById("imagebox");
     var height = document.getElementById("height").value;
     var width = document.getElementById("width").value;
-    var top = document.getElementById("topmargin").value;
-    var left = document.getElementById("leftmargin").value;
-    var divwidth = document.getElementById("divwidth").value;
+    var ptop = height * mtop;
+    var pleft = width * mleft;
+    var pwidth = width * mwidth;
+
     imagebox.style.backgroundImage = "url('" + background + "')";
     imagebox.style.backgroundRepeat = "no-repeat";
     imagebox.style.backgroundSize = "100% 100%";
     imagebox.style.height = height + "px";
     imagebox.style.width = width + "px";
-    imagebox.style.paddingTop = top + "px";
-    imagebox.style.paddingLeft = left + "px";
+    imagebox.style.paddingTop = ptop + "px";
+    imagebox.style.paddingLeft = pleft + "px";
 
     var msg = quill.getSemanticHTML();
     var sandbox = document.getElementById("sandbox");
-    sandbox.style.maxWidth = divwidth + "px";
+    sandbox.style.maxWidth = pwidth + "px";
     sandbox.innerHTML = msg.replace(/&nbsp;/g, " ");
 }
 

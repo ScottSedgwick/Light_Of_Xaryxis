@@ -29,51 +29,35 @@
                 <h4 class="s12">Scroll Maker</h4>
                 <div class="s12">
                     <div id="toolbar"></div>
-                    <div id="editor"></div>
+                    <div id="editor">
+                    </div>
                 </div>
 
                 <div class="s12 grid">
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll1, 120, 90, 315)">
-                        <canvas id="scroll1"></canvas>
-                    </button>
+                    <image class="s2 border square round extra" src="scroll1.png" style="height: 110px; width: 110px;" onclick="changeImage('scroll1.png', 0.160, 0.170, 0.650)" />
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll2, 100, 100, 315)">
-                        <canvas id="scroll2"></canvas>
-                    </button>
+                    <image class="s2 border square round extra" src="scroll2.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll2.jpg', 0.160, 0.150, 0.700)" />
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll3, 100, 120, 265)">
-                        <canvas id="scroll3"></canvas>
-                    </button>
+                    <image class="s2 border square round extra" src="scroll3.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll3.jpg', 0.170, 0.200, 0.620)" />
 
-                    <button class="s2 border square round extra" style="height: 110px; width: 110px;" onclick="changeImage(scroll4, 90, 100, 290)">
-                        <canvas id="scroll4"></canvas>
-                    </button>
+                    <image class="s2 border square round extra" src="scroll4.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll4.jpg', 0.170, 0.200, 0.610)" />
+
+                    <image class="s2 border square round extra" src="scroll5.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll5.jpg', 0.170, 0.140, 0.740)" />
+
+                    <image class="s2 border square round extra" src="scroll6.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll6.jpg', 0.200, 0.200, 0.650)" />
+
+                    <image class="s2 border square round extra" src="scroll7.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll7.jpg', 0.140, 0.200, 0.620)" />
+
                 </div>
 
                 <div class="s12 grid">
                     <div class="s6 field label border fill">
-                        <input type="number" id="height" value="500" onchange="buildCanvas()" />
+                        <input type="number" id="height" value="700" onchange="buildCanvas()" />
                         <label>Scroll Height</label>
                     </div>
                     <div class="s6 field label border fill">
                         <input type="number" id="width" value="500" onchange="buildCanvas()" />
                         <label>Scroll Width</label>
-                    </div>
-
-                    <div class="s3 field label border fill">
-                        <input type="number" id="topmargin" value="120" onchange="buildCanvas()"/>
-                        <label>Top Margin</label>
-                    </div>
-                    
-                    <div class="s3 field label border fill">
-                        <input type="number" id="leftmargin" value="90" onchange="buildCanvas()"/>
-                        <label>Left Margin</label>
-                    </div>
-
-                    
-                    <div class="s3 field label border fill">
-                        <input type="number" id="divwidth" value="90" onchange="buildCanvas()"/>
-                        <label>Width</label>
                     </div>
                 </div>
 
