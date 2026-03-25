@@ -19,55 +19,44 @@
     <link href="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.css" rel="stylesheet">
     <script type="module" src="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.js"></script>
     <script type="module" src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.1.2/dist/cdn/material-dynamic-colors.min.js"></script>
-    <script type="text/javascript" src="images.js"></script>
     <script type="text/javascript" src="mkcanvas.js"></script>
 </head>
 <body onload="buildThumbnails()">
     <div class="grid">
         <div class="s6">
-            <div class="s6">
+            <div class="s6" style="height:85%;">
                 <h4 class="s12">Scroll Maker</h4>
                 <div class="s12">
                     <div id="toolbar"></div>
                     <div id="editor">
                     </div>
                 </div>
-
                 <div class="s12 grid">
-                    <image class="s2 border square round extra" src="scroll1.png" style="height: 110px; width: 110px;" onclick="changeImage('scroll1.png', 0.160, 0.170, 0.650)" />
-
-                    <image class="s2 border square round extra" src="scroll2.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll2.jpg', 0.160, 0.150, 0.700)" />
-
-                    <image class="s2 border square round extra" src="scroll3.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll3.jpg', 0.170, 0.200, 0.620)" />
-
-                    <image class="s2 border square round extra" src="scroll4.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll4.jpg', 0.170, 0.200, 0.610)" />
-
-                    <image class="s2 border square round extra" src="scroll5.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll5.jpg', 0.170, 0.140, 0.740)" />
-
-                    <image class="s2 border square round extra" src="scroll6.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll6.jpg', 0.200, 0.200, 0.650)" />
-
-                    <image class="s2 border square round extra" src="scroll7.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll7.jpg', 0.140, 0.200, 0.620)" />
-
-                </div>
-
-                <div class="s12 grid">
-                    <div class="s6 field label border fill">
+                    <div class="s4 field label border fill">
                         <input type="number" id="height" value="700" onchange="buildCanvas()" />
                         <label>Scroll Height</label>
                     </div>
-                    <div class="s6 field label border fill">
+                    <div class="s4 field label border fill">
                         <input type="number" id="width" value="500" onchange="buildCanvas()" />
                         <label>Scroll Width</label>
                     </div>
-                </div>
 
-                <div class="s12">
-                    <br/>
+                <div class="s4">
                     <button onclick="exportImage()" >Save</button>
+                </div>
                 </div>
             </div>
         </div>
-        <div class="s6 sandbox">
+        <div class="s1 grid">
+            <image class="s12 border square round extra" src="scroll1.png" style="height: 110px; width: 110px;" onclick="changeImage('scroll1.png', 0.160, 0.170, 0.650)" />
+            <image class="s12 border square round extra" src="scroll2.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll2.jpg', 0.160, 0.150, 0.700)" />
+            <image class="s12 border square round extra" src="scroll3.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll3.jpg', 0.170, 0.200, 0.620)" />
+            <image class="s12 border square round extra" src="scroll4.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll4.jpg', 0.170, 0.200, 0.610)" />
+            <image class="s12 border square round extra" src="scroll5.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll5.jpg', 0.170, 0.140, 0.740)" />
+            <image class="s12 border square round extra" src="scroll6.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll6.jpg', 0.200, 0.200, 0.650)" />
+            <image class="s12 border square round extra" src="scroll7.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll7.jpg', 0.140, 0.200, 0.620)" />
+        </div>
+        <div class="s5 sandbox">
             <h4>Preview</h4>
             <div id="imagebox">
                 <div id="sandbox" class="sandbox"></div>
