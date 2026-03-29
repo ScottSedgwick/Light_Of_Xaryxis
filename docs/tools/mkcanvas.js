@@ -52,18 +52,6 @@ function buildEditor() {
     });
 }
 
-function buildThumbnail(h, w, el, img) {
-    const canvas = document.getElementById(el);
-    canvas.height = h;
-    canvas.width = w;
-    const ctx = canvas.getContext("2d");
-    var image = new Image();
-    image.onload = function() {
-        ctx.drawImage(image, 0, -5, h, w);
-    }
-    image.src = img;
-}
-
 function buildCanvas() {
     var imagebox = document.getElementById("imagebox");
     var height = document.getElementById("height").value;
@@ -109,17 +97,18 @@ function getLines(ctx, text, maxWidth) {
     return lines;
 }
 
-function exportImage() {
+async function exportImage() {
     const source = document.getElementById("imagebox");
-
-    html2canvas(source).then(function(canvas) {// Create a Blob from the canvas data
-        canvas.toBlob((blob) => {
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'canvas-image.png';
-            a.click();
-            URL.revokeObjectURL(url); // Clean up after download
-        }, 'image/png');
-    });
+    try {
+        htmlToImage
+            .toPng(source, { skipFonts: true }) //, fontEmbedCSS: fontEmbedCss }));
+            .then(function(dataUrl) {
+                const a = document.createElement('a');
+                a.href = dataUrl;
+                a.download = 'scroll.png';
+                a.click();
+            });
+    } catch (error) {
+        console.error(error);
+    }
 }
