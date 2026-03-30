@@ -1,4 +1,4 @@
-var background = 'scroll1.png';
+var background = 'images/scroll1.png';
 var mtop = 0.160;
 var mleft = 0.170;
 var mwidth = 0.650;
@@ -101,7 +101,7 @@ async function exportImage() {
     const source = document.getElementById("imagebox");
     try {
         htmlToImage
-            .toPng(source, { skipFonts: true }) //, fontEmbedCSS: fontEmbedCss }));
+            .toPng(source)
             .then(function(dataUrl) {
                 const a = document.createElement('a');
                 a.href = dataUrl;

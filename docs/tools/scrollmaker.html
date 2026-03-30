@@ -4,29 +4,29 @@
     <title>Scroll Maker</title>
 
     <!-- Quill editor imports -->
-    <link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css"/>
-    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
-    <link rel="stylesheet" href="../assets/css/quill.css" />
+    <link href="css/quill.snow.css" rel="stylesheet" />
+    <script src="js/highlight.min.js"></script>
+    <script src="js/quill.js"></script>
+    <link href="css/atom-one-dark.min.css" rel="stylesheet" />
+    <script src="js/katex.min.js"></script>
+    <link href="css/katex.min.css" rel="stylesheet" />
+    <link href="css/quill.css" rel="stylesheet" />
 
     <!-- HTML to Image import -->
-    <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.13/dist/html-to-image.min.js"></script>
+    <script src="js/html-to-image.min.js"></script>
 
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" crossOrigin="anonymous">
+    <link href="css/google-fonts.css" rel="stylesheet">
     
     <!-- Beer CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.css" rel="stylesheet">
-    <script type="module" src="https://cdn.jsdelivr.net/npm/beercss@3.10.8/dist/cdn/beer.min.js"></script>
-    <script type="module" src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.1.2/dist/cdn/material-dynamic-colors.min.js"></script>
+    <link href="css/beer.min.css" rel="stylesheet">
+    <script src="js/beer.min.js" type="module"></script>
+    <script src="js/material-dynamic-colors.min.js" type="module"></script>
 
     <!-- My code -->
-    <script type="text/javascript" src="mkcanvas.js"></script>
+    <script type="text/javascript" src="js/mkcanvas.js"></script>
 </head>
 <body onload="buildThumbnails()">
     <div class="grid">
@@ -54,13 +54,13 @@
             </div>
         </div>
         <div class="s1 grid">
-            <image class="s12 border square round extra" src="scroll1.png" style="height: 110px; width: 110px;" onclick="changeImage('scroll1.png', 0.160, 0.170, 0.650)" />
-            <image class="s12 border square round extra" src="scroll2.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll2.jpg', 0.160, 0.150, 0.700)" />
-            <image class="s12 border square round extra" src="scroll3.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll3.jpg', 0.170, 0.200, 0.620)" />
-            <image class="s12 border square round extra" src="scroll4.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll4.jpg', 0.170, 0.200, 0.610)" />
-            <image class="s12 border square round extra" src="scroll5.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll5.jpg', 0.170, 0.140, 0.740)" />
-            <image class="s12 border square round extra" src="scroll6.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll6.jpg', 0.200, 0.200, 0.650)" />
-            <image class="s12 border square round extra" src="scroll7.jpg" style="height: 110px; width: 110px;" onclick="changeImage('scroll7.jpg', 0.140, 0.200, 0.620)" />
+            <image class="s12 border square round extra" src="images/scroll1.png" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll1.png', 0.160, 0.170, 0.650)" />
+            <image class="s12 border square round extra" src="images/scroll2.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll2.jpg', 0.160, 0.150, 0.700)" />
+            <image class="s12 border square round extra" src="images/scroll3.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll3.jpg', 0.170, 0.200, 0.620)" />
+            <image class="s12 border square round extra" src="images/scroll4.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll4.jpg', 0.170, 0.200, 0.610)" />
+            <image class="s12 border square round extra" src="images/scroll5.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll5.jpg', 0.170, 0.140, 0.740)" />
+            <image class="s12 border square round extra" src="images/scroll6.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll6.jpg', 0.200, 0.200, 0.650)" />
+            <image class="s12 border square round extra" src="images/scroll7.jpg" style="height: 110px; width: 110px;" onclick="changeImage('images/scroll7.jpg', 0.140, 0.200, 0.620)" />
         </div>
         <div class="s5 sandbox">
             <h4>Preview</h4>
