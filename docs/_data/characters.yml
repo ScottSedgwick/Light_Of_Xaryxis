@@ -16,6 +16,9 @@
 - name: Gary
   player: Jim
   link: /Light_Of_Xaryxis/assets/images/Gary.webp
+- name: Thauvia
+  player: Sassya
+  link: /Light_Of_Xaryxis/assets/images/Thauvia.jpg
 - name: Dennis
   player: Scott
   link: /Light_Of_Xaryxis/characters/dennis.html
