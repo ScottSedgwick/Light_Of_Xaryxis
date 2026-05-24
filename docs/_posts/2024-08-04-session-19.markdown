@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Session Nineteen - Bluetspur"
+campaign: Bluetspur
 date:   2024-08-04 15:13:39 +1100
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Session Two - The Clockwork Beholder"
+campaign: Cyre1313
 date:   2023-07-09 15:13:39 +1100
 categories: jekyll update
 ---

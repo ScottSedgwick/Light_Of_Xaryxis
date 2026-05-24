@@ -31,11 +31,13 @@ layout: base
             <table>
                 <tr>
                     <th>Date</th>
+                    <th>Campaign</th>
                     <th>Title</th>
                 </tr>
                 {%- for post in posts -%}
                 <tr>
                     <td>{{ post.date | date: date_format }}</td>
+                    <td>{{ post.campaign }}</td>
                     <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
                 </tr>
                 {%- endfor -%}

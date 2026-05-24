@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Session Three - That f*cking Mimic"
+campaign: Cyre1313
 date:   2023-08-08 15:13:39 +1100
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Session One - Meeting Esmerelda"
+campaign: Cyre1313
 date:   2023-06-18 15:13:39 +1100
 categories: jekyll update
 ---
